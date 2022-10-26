@@ -1,0 +1,35 @@
+update-alternatives 2022-09-22 16:47:25: run with --quiet --install /usr/bin/awk awk /usr/bin/mawk 5 --slave /usr/share/man/man1/awk.1.gz awk.1.gz /usr/share/man/man1/mawk.1.gz --slave /usr/bin/nawk nawk /usr/bin/mawk --slave /usr/share/man/man1/nawk.1.gz nawk.1.gz /usr/share/man/man1/mawk.1.gz
+update-alternatives 2022-09-22 16:47:25: link group awk updated to point to /usr/bin/mawk
+update-alternatives 2022-09-22 16:47:29: run with --quiet --install /usr/bin/awk awk /usr/bin/mawk 5 --slave /usr/share/man/man1/awk.1.gz awk.1.gz /usr/share/man/man1/mawk.1.gz --slave /usr/bin/nawk nawk /usr/bin/mawk --slave /usr/share/man/man1/nawk.1.gz nawk.1.gz /usr/share/man/man1/mawk.1.gz
+update-alternatives 2022-09-22 16:47:29: run with --install /usr/share/man/man7/builtins.7.gz builtins.7.gz /usr/share/man/man7/bash-builtins.7.gz 10
+update-alternatives 2022-09-22 16:47:29: link group builtins.7.gz updated to point to /usr/share/man/man7/bash-builtins.7.gz
+update-alternatives 2022-09-22 16:47:30: run with --install /usr/sbin/rmt rmt /usr/sbin/rmt-tar 50 --slave /usr/share/man/man8/rmt.8.gz rmt.8.gz /usr/share/man/man8/rmt-tar.8.gz
+update-alternatives 2022-09-22 16:47:30: link group rmt updated to point to /usr/sbin/rmt-tar
+update-alternatives 2022-09-22 16:47:30: run with --install /usr/bin/w w /usr/bin/w.procps 50 --slave /usr/share/man/man1/w.1.gz w.1.gz /usr/share/man/man1/w.procps.1.gz
+update-alternatives 2022-09-22 16:47:30: link group w updated to point to /usr/bin/w.procps
+update-alternatives 2022-09-22 16:47:30: run with --install /usr/bin/pager pager /bin/more 50 --slave /usr/share/man/man1/pager.1.gz pager.1.gz /usr/share/man/man1/more.1.gz
+update-alternatives 2022-09-22 16:47:30: link group pager updated to point to /bin/more
+update-alternatives 2022-09-22 16:47:30: run with --remove pager /usr/bin/pg
+update-alternatives 2022-09-22 16:47:41: run with --remove builtins.7.gz /usr/share/man/man7/bash-builtins.7.gz
+update-alternatives 2022-09-22 16:47:41: link group builtins.7.gz fully removed
+update-alternatives 2022-09-22 16:49:41: run with --quiet --install /usr/bin/awk awk /usr/bin/mawk 5 --slave /usr/share/man/man1/awk.1.gz awk.1.gz /usr/share/man/man1/mawk.1.gz --slave /usr/bin/nawk nawk /usr/bin/mawk --slave /usr/share/man/man1/nawk.1.gz nawk.1.gz /usr/share/man/man1/mawk.1.gz
+update-alternatives 2022-09-22 16:49:41: auto-repair link group awk
+update-alternatives 2022-09-22 16:49:51: run with --install /usr/bin/w w /usr/bin/w.procps 50 --slave /usr/share/man/man1/w.1.gz w.1.gz /usr/share/man/man1/w.procps.1.gz
+update-alternatives 2022-09-22 16:49:51: auto-repair link group w
+update-alternatives 2022-09-22 16:49:57: run with --install /usr/sbin/rmt rmt /usr/sbin/rmt-tar 50 --slave /usr/share/man/man8/rmt.8.gz rmt.8.gz /usr/share/man/man8/rmt-tar.8.gz
+update-alternatives 2022-09-22 16:49:57: auto-repair link group rmt
+update-alternatives 2022-09-22 16:50:00: run with --install /usr/bin/pager pager /bin/more 50 --slave /usr/share/man/man1/pager.1.gz pager.1.gz /usr/share/man/man1/more.1.gz
+update-alternatives 2022-09-22 16:50:00: auto-repair link group pager
+update-alternatives 2022-09-22 16:50:00: run with --remove pager /usr/bin/pg
+update-alternatives 2022-09-22 16:50:08: run with --install /usr/sbin/rmt rmt /usr/sbin/rmt-tar 50 --slave /usr/share/man/man8/rmt.8.gz rmt.8.gz /usr/share/man/man8/rmt-tar.8.gz
+update-alternatives 2022-09-22 16:50:09: run with --install /usr/bin/pager pager /bin/more 50 --slave /usr/share/man/man1/pager.1.gz pager.1.gz /usr/share/man/man1/more.1.gz
+update-alternatives 2022-09-22 16:50:09: run with --remove pager /usr/bin/pg
+update-alternatives 2022-09-22 16:50:12: run with --install /usr/bin/w w /usr/bin/w.procps 50 --slave /usr/share/man/man1/w.1.gz w.1.gz /usr/share/man/man1/w.procps.1.gz
+update-alternatives 2022-10-20 08:29:35: run with --quiet --install /usr/bin/pinentry pinentry /usr/bin/pinentry-curses 50 --slave /usr/share/man/man1/pinentry.1.gz pinentry.1.gz /usr/share/man/man1/pinentry-curses.1.gz
+update-alternatives 2022-10-20 08:29:35: link group pinentry updated to point to /usr/bin/pinentry-curses
+update-alternatives 2022-10-26 22:59:02: run with --quiet --install /usr/bin/rsh rsh /usr/bin/ssh 20 --slave /usr/share/man/man1/rsh.1.gz rsh.1.gz /usr/share/man/man1/ssh.1.gz
+update-alternatives 2022-10-26 22:59:02: link group rsh updated to point to /usr/bin/ssh
+update-alternatives 2022-10-26 22:59:02: run with --quiet --install /usr/bin/rlogin rlogin /usr/bin/slogin 20 --slave /usr/share/man/man1/rlogin.1.gz rlogin.1.gz /usr/share/man/man1/slogin.1.gz
+update-alternatives 2022-10-26 22:59:02: link group rlogin updated to point to /usr/bin/slogin
+update-alternatives 2022-10-26 22:59:03: run with --quiet --install /usr/bin/rcp rcp /usr/bin/scp 20 --slave /usr/share/man/man1/rcp.1.gz rcp.1.gz /usr/share/man/man1/scp.1.gz
+update-alternatives 2022-10-26 22:59:03: link group rcp updated to point to /usr/bin/scp

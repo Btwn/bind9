@@ -1,0 +1,500 @@
+
+Start-Date: 2022-09-22  16:47:33
+Commandline: apt-get install --reinstall adduser
+Reinstall: adduser:amd64 (3.118ubuntu2)
+End-Date: 2022-09-22  16:47:34
+
+Start-Date: 2022-09-22  16:47:35
+Commandline: apt-get install --reinstall apt
+Reinstall: apt:amd64 (2.0.2)
+End-Date: 2022-09-22  16:47:36
+
+Start-Date: 2022-09-22  16:47:37
+Commandline: apt-get install --reinstall base-files
+Reinstall: base-files:amd64 (11ubuntu5)
+End-Date: 2022-09-22  16:47:38
+
+Start-Date: 2022-09-22  16:47:39
+Commandline: apt-get install --reinstall base-passwd
+Reinstall: base-passwd:amd64 (3.5.47)
+End-Date: 2022-09-22  16:47:39
+
+Start-Date: 2022-09-22  16:47:41
+Commandline: apt-get install --reinstall bash
+Reinstall: bash:amd64 (5.0-6ubuntu1)
+End-Date: 2022-09-22  16:47:41
+
+Start-Date: 2022-09-22  16:47:42
+Commandline: apt-get install --reinstall bsdutils
+Reinstall: bsdutils:amd64 (1:2.34-0.1ubuntu9)
+End-Date: 2022-09-22  16:47:43
+
+Start-Date: 2022-09-22  16:47:44
+Commandline: apt-get install --reinstall bzip2
+Reinstall: bzip2:amd64 (1.0.8-2)
+End-Date: 2022-09-22  16:47:44
+
+Start-Date: 2022-09-22  16:47:46
+Commandline: apt-get install --reinstall coreutils
+Reinstall: coreutils:amd64 (8.30-3ubuntu2)
+End-Date: 2022-09-22  16:47:46
+
+Start-Date: 2022-09-22  16:47:47
+Commandline: apt-get install --reinstall dash
+Reinstall: dash:amd64 (0.5.10.2-6)
+End-Date: 2022-09-22  16:47:48
+
+Start-Date: 2022-09-22  16:47:49
+Commandline: apt-get install --reinstall debconf
+Reinstall: debconf:amd64 (1.5.73)
+End-Date: 2022-09-22  16:47:50
+
+Start-Date: 2022-09-22  16:47:51
+Commandline: apt-get install --reinstall debianutils
+Reinstall: debianutils:amd64 (4.9.1)
+End-Date: 2022-09-22  16:47:51
+
+Start-Date: 2022-09-22  16:47:52
+Commandline: apt-get install --reinstall diffutils
+Reinstall: diffutils:amd64 (1:3.7-3)
+End-Date: 2022-09-22  16:47:53
+
+Start-Date: 2022-09-22  16:47:54
+Commandline: apt-get install --reinstall dpkg
+Reinstall: dpkg:amd64 (1.19.7ubuntu3)
+End-Date: 2022-09-22  16:47:55
+
+Start-Date: 2022-09-22  16:47:56
+Commandline: apt-get install --reinstall e2fsprogs
+Reinstall: e2fsprogs:amd64 (1.45.5-2ubuntu1)
+End-Date: 2022-09-22  16:47:56
+
+Start-Date: 2022-09-22  16:47:57
+Commandline: apt-get install --reinstall fdisk
+Reinstall: fdisk:amd64 (2.34-0.1ubuntu9)
+End-Date: 2022-09-22  16:47:58
+
+Start-Date: 2022-09-22  16:47:59
+Commandline: apt-get install --reinstall findutils
+Reinstall: findutils:amd64 (4.7.0-1ubuntu1)
+End-Date: 2022-09-22  16:47:59
+
+Start-Date: 2022-09-22  16:48:00
+Commandline: apt-get install --reinstall gcc-10-base:amd64
+Reinstall: gcc-10-base:amd64 (10-20200411-0ubuntu1)
+End-Date: 2022-09-22  16:48:01
+
+Start-Date: 2022-09-22  16:48:02
+Commandline: apt-get install --reinstall gpgv
+Reinstall: gpgv:amd64 (2.2.19-3ubuntu2)
+End-Date: 2022-09-22  16:48:02
+
+Start-Date: 2022-09-22  16:48:04
+Commandline: apt-get install --reinstall grep
+Reinstall: grep:amd64 (3.4-1)
+End-Date: 2022-09-22  16:48:04
+
+Start-Date: 2022-09-22  16:48:05
+Commandline: apt-get install --reinstall gzip
+Reinstall: gzip:amd64 (1.10-0ubuntu4)
+End-Date: 2022-09-22  16:48:06
+
+Start-Date: 2022-09-22  16:48:07
+Commandline: apt-get install --reinstall hostname
+Reinstall: hostname:amd64 (3.23)
+End-Date: 2022-09-22  16:48:07
+
+Start-Date: 2022-09-22  16:48:09
+Commandline: apt-get install --reinstall init-system-helpers
+Reinstall: init-system-helpers:amd64 (1.57)
+End-Date: 2022-09-22  16:48:09
+
+Start-Date: 2022-09-22  16:48:10
+Commandline: apt-get install --reinstall libacl1:amd64
+Reinstall: libacl1:amd64 (2.2.53-6)
+End-Date: 2022-09-22  16:48:11
+
+Start-Date: 2022-09-22  16:48:12
+Commandline: apt-get install --reinstall libapt-pkg6.0:amd64
+Reinstall: libapt-pkg6.0:amd64 (2.0.2)
+End-Date: 2022-09-22  16:48:12
+
+Start-Date: 2022-09-22  16:48:13
+Commandline: apt-get install --reinstall libattr1:amd64
+Reinstall: libattr1:amd64 (1:2.4.48-5)
+End-Date: 2022-09-22  16:48:14
+
+Start-Date: 2022-09-22  16:48:15
+Commandline: apt-get install --reinstall libaudit-common
+Reinstall: libaudit-common:amd64 (1:2.8.5-2ubuntu6)
+End-Date: 2022-09-22  16:48:15
+
+Start-Date: 2022-09-22  16:48:16
+Commandline: apt-get install --reinstall libaudit1:amd64
+Reinstall: libaudit1:amd64 (1:2.8.5-2ubuntu6)
+End-Date: 2022-09-22  16:48:17
+
+Start-Date: 2022-09-22  16:48:18
+Commandline: apt-get install --reinstall libblkid1:amd64
+Reinstall: libblkid1:amd64 (2.34-0.1ubuntu9)
+End-Date: 2022-09-22  16:48:19
+
+Start-Date: 2022-09-22  16:48:20
+Commandline: apt-get install --reinstall libbz2-1.0:amd64
+Reinstall: libbz2-1.0:amd64 (1.0.8-2)
+End-Date: 2022-09-22  16:48:20
+
+Start-Date: 2022-09-22  16:48:21
+Commandline: apt-get install --reinstall libc-bin
+Reinstall: libc-bin:amd64 (2.31-0ubuntu9)
+End-Date: 2022-09-22  16:48:22
+
+Start-Date: 2022-09-22  16:48:23
+Commandline: apt-get install --reinstall libc6:amd64
+Reinstall: libc6:amd64 (2.31-0ubuntu9)
+End-Date: 2022-09-22  16:48:25
+
+Start-Date: 2022-09-22  16:48:26
+Commandline: apt-get install --reinstall libcap-ng0:amd64
+Reinstall: libcap-ng0:amd64 (0.7.9-2.1build1)
+End-Date: 2022-09-22  16:48:26
+
+Start-Date: 2022-09-22  16:48:27
+Commandline: apt-get install --reinstall libcom-err2:amd64
+Reinstall: libcom-err2:amd64 (1.45.5-2ubuntu1)
+End-Date: 2022-09-22  16:48:28
+
+Start-Date: 2022-09-22  16:48:29
+Commandline: apt-get install --reinstall libcrypt1:amd64
+Reinstall: libcrypt1:amd64 (1:4.4.10-10ubuntu4)
+End-Date: 2022-09-22  16:48:29
+
+Start-Date: 2022-09-22  16:48:30
+Commandline: apt-get install --reinstall libdb5.3:amd64
+Reinstall: libdb5.3:amd64 (5.3.28+dfsg1-0.6ubuntu2)
+End-Date: 2022-09-22  16:48:31
+
+Start-Date: 2022-09-22  16:48:32
+Commandline: apt-get install --reinstall libdebconfclient0:amd64
+Reinstall: libdebconfclient0:amd64 (0.251ubuntu1)
+End-Date: 2022-09-22  16:48:33
+
+Start-Date: 2022-09-22  16:48:34
+Commandline: apt-get install --reinstall libext2fs2:amd64
+Reinstall: libext2fs2:amd64 (1.45.5-2ubuntu1)
+End-Date: 2022-09-22  16:48:34
+
+Start-Date: 2022-09-22  16:48:35
+Commandline: apt-get install --reinstall libfdisk1:amd64
+Reinstall: libfdisk1:amd64 (2.34-0.1ubuntu9)
+End-Date: 2022-09-22  16:48:36
+
+Start-Date: 2022-09-22  16:48:37
+Commandline: apt-get install --reinstall libffi7:amd64
+Reinstall: libffi7:amd64 (3.3-4)
+End-Date: 2022-09-22  16:48:37
+
+Start-Date: 2022-09-22  16:48:39
+Commandline: apt-get install --reinstall libgcc-s1:amd64
+Reinstall: libgcc-s1:amd64 (10-20200411-0ubuntu1)
+End-Date: 2022-09-22  16:48:39
+
+Start-Date: 2022-09-22  16:48:40
+Commandline: apt-get install --reinstall libgcrypt20:amd64
+Reinstall: libgcrypt20:amd64 (1.8.5-5ubuntu1)
+End-Date: 2022-09-22  16:48:41
+
+Start-Date: 2022-09-22  16:48:42
+Commandline: apt-get install --reinstall libgmp10:amd64
+Reinstall: libgmp10:amd64 (2:6.2.0+dfsg-4)
+End-Date: 2022-09-22  16:48:42
+
+Start-Date: 2022-09-22  16:48:43
+Commandline: apt-get install --reinstall libgnutls30:amd64
+Reinstall: libgnutls30:amd64 (3.6.13-2ubuntu1)
+End-Date: 2022-09-22  16:48:44
+
+Start-Date: 2022-09-22  16:48:45
+Commandline: apt-get install --reinstall libgpg-error0:amd64
+Reinstall: libgpg-error0:amd64 (1.37-1)
+End-Date: 2022-09-22  16:48:46
+
+Start-Date: 2022-09-22  16:48:47
+Commandline: apt-get install --reinstall libhogweed5:amd64
+Reinstall: libhogweed5:amd64 (3.5.1+really3.5.1-2)
+End-Date: 2022-09-22  16:48:47
+
+Start-Date: 2022-09-22  16:48:48
+Commandline: apt-get install --reinstall libidn2-0:amd64
+Reinstall: libidn2-0:amd64 (2.2.0-2)
+End-Date: 2022-09-22  16:48:49
+
+Start-Date: 2022-09-22  16:48:50
+Commandline: apt-get install --reinstall liblz4-1:amd64
+Reinstall: liblz4-1:amd64 (1.9.2-2)
+End-Date: 2022-09-22  16:48:50
+
+Start-Date: 2022-09-22  16:48:51
+Commandline: apt-get install --reinstall liblzma5:amd64
+Reinstall: liblzma5:amd64 (5.2.4-1)
+End-Date: 2022-09-22  16:48:52
+
+Start-Date: 2022-09-22  16:48:53
+Commandline: apt-get install --reinstall libmount1:amd64
+Reinstall: libmount1:amd64 (2.34-0.1ubuntu9)
+End-Date: 2022-09-22  16:48:53
+
+Start-Date: 2022-09-22  16:48:54
+Commandline: apt-get install --reinstall libncurses6:amd64
+Reinstall: libncurses6:amd64 (6.2-0ubuntu2)
+End-Date: 2022-09-22  16:48:55
+
+Start-Date: 2022-09-22  16:48:56
+Commandline: apt-get install --reinstall libncursesw6:amd64
+Reinstall: libncursesw6:amd64 (6.2-0ubuntu2)
+End-Date: 2022-09-22  16:48:56
+
+Start-Date: 2022-09-22  16:48:57
+Commandline: apt-get install --reinstall libnettle7:amd64
+Reinstall: libnettle7:amd64 (3.5.1+really3.5.1-2)
+End-Date: 2022-09-22  16:48:58
+
+Start-Date: 2022-09-22  16:48:59
+Commandline: apt-get install --reinstall libp11-kit0:amd64
+Reinstall: libp11-kit0:amd64 (0.23.20-1build1)
+End-Date: 2022-09-22  16:48:59
+
+Start-Date: 2022-09-22  16:49:01
+Commandline: apt-get install --reinstall libpam-modules:amd64
+Reinstall: libpam-modules:amd64 (1.3.1-5ubuntu4)
+End-Date: 2022-09-22  16:49:01
+
+Start-Date: 2022-09-22  16:49:02
+Commandline: apt-get install --reinstall libpam-modules-bin
+Reinstall: libpam-modules-bin:amd64 (1.3.1-5ubuntu4)
+End-Date: 2022-09-22  16:49:03
+
+Start-Date: 2022-09-22  16:49:04
+Commandline: apt-get install --reinstall libpam-runtime
+Reinstall: libpam-runtime:amd64 (1.3.1-5ubuntu4)
+End-Date: 2022-09-22  16:49:04
+
+Start-Date: 2022-09-22  16:49:06
+Commandline: apt-get install --reinstall libpam0g:amd64
+Reinstall: libpam0g:amd64 (1.3.1-5ubuntu4)
+End-Date: 2022-09-22  16:49:06
+
+Start-Date: 2022-09-22  16:49:07
+Commandline: apt-get install --reinstall libpcre2-8-0:amd64
+Reinstall: libpcre2-8-0:amd64 (10.34-7)
+End-Date: 2022-09-22  16:49:08
+
+Start-Date: 2022-09-22  16:49:09
+Commandline: apt-get install --reinstall libpcre3:amd64
+Reinstall: libpcre3:amd64 (2:8.39-12build1)
+End-Date: 2022-09-22  16:49:09
+
+Start-Date: 2022-09-22  16:49:10
+Commandline: apt-get install --reinstall libprocps8:amd64
+Reinstall: libprocps8:amd64 (2:3.3.16-1ubuntu2)
+End-Date: 2022-09-22  16:49:11
+
+Start-Date: 2022-09-22  16:49:12
+Commandline: apt-get install --reinstall libseccomp2:amd64
+Reinstall: libseccomp2:amd64 (2.4.3-1ubuntu1)
+End-Date: 2022-09-22  16:49:12
+
+Start-Date: 2022-09-22  16:49:14
+Commandline: apt-get install --reinstall libselinux1:amd64
+Reinstall: libselinux1:amd64 (3.0-1build2)
+End-Date: 2022-09-22  16:49:14
+
+Start-Date: 2022-09-22  16:49:15
+Commandline: apt-get install --reinstall libsemanage-common
+Reinstall: libsemanage-common:amd64 (3.0-1build2)
+End-Date: 2022-09-22  16:49:16
+
+Start-Date: 2022-09-22  16:49:17
+Commandline: apt-get install --reinstall libsemanage1:amd64
+Reinstall: libsemanage1:amd64 (3.0-1build2)
+End-Date: 2022-09-22  16:49:17
+
+Start-Date: 2022-09-22  16:49:18
+Commandline: apt-get install --reinstall libsepol1:amd64
+Reinstall: libsepol1:amd64 (3.0-1)
+End-Date: 2022-09-22  16:49:19
+
+Start-Date: 2022-09-22  16:49:20
+Commandline: apt-get install --reinstall libsmartcols1:amd64
+Reinstall: libsmartcols1:amd64 (2.34-0.1ubuntu9)
+End-Date: 2022-09-22  16:49:20
+
+Start-Date: 2022-09-22  16:49:21
+Commandline: apt-get install --reinstall libss2:amd64
+Reinstall: libss2:amd64 (1.45.5-2ubuntu1)
+End-Date: 2022-09-22  16:49:22
+
+Start-Date: 2022-09-22  16:49:23
+Commandline: apt-get install --reinstall libstdc++6:amd64
+Reinstall: libstdc++6:amd64 (10-20200411-0ubuntu1)
+End-Date: 2022-09-22  16:49:24
+
+Start-Date: 2022-09-22  16:49:25
+Commandline: apt-get install --reinstall libsystemd0:amd64
+Reinstall: libsystemd0:amd64 (245.4-4ubuntu3)
+End-Date: 2022-09-22  16:49:26
+
+Start-Date: 2022-09-22  16:49:27
+Commandline: apt-get install --reinstall libtasn1-6:amd64
+Reinstall: libtasn1-6:amd64 (4.16.0-2)
+End-Date: 2022-09-22  16:49:27
+
+Start-Date: 2022-09-22  16:49:28
+Commandline: apt-get install --reinstall libtinfo6:amd64
+Reinstall: libtinfo6:amd64 (6.2-0ubuntu2)
+End-Date: 2022-09-22  16:49:29
+
+Start-Date: 2022-09-22  16:49:30
+Commandline: apt-get install --reinstall libudev1:amd64
+Reinstall: libudev1:amd64 (245.4-4ubuntu3)
+End-Date: 2022-09-22  16:49:30
+
+Start-Date: 2022-09-22  16:49:31
+Commandline: apt-get install --reinstall libunistring2:amd64
+Reinstall: libunistring2:amd64 (0.9.10-2)
+End-Date: 2022-09-22  16:49:32
+
+Start-Date: 2022-09-22  16:49:33
+Commandline: apt-get install --reinstall libuuid1:amd64
+Reinstall: libuuid1:amd64 (2.34-0.1ubuntu9)
+End-Date: 2022-09-22  16:49:34
+
+Start-Date: 2022-09-22  16:49:35
+Commandline: apt-get install --reinstall libzstd1:amd64
+Reinstall: libzstd1:amd64 (1.4.4+dfsg-3)
+End-Date: 2022-09-22  16:49:35
+
+Start-Date: 2022-09-22  16:49:36
+Commandline: apt-get install --reinstall login
+Reinstall: login:amd64 (1:4.8.1-1ubuntu5)
+End-Date: 2022-09-22  16:49:37
+
+Start-Date: 2022-09-22  16:49:38
+Commandline: apt-get install --reinstall logsave
+Reinstall: logsave:amd64 (1.45.5-2ubuntu1)
+End-Date: 2022-09-22  16:49:38
+
+Start-Date: 2022-09-22  16:49:39
+Commandline: apt-get install --reinstall lsb-base
+Reinstall: lsb-base:amd64 (11.1.0ubuntu2)
+End-Date: 2022-09-22  16:49:40
+
+Start-Date: 2022-09-22  16:49:41
+Commandline: apt-get install --reinstall mawk
+Reinstall: mawk:amd64 (1.3.4.20200120-2)
+End-Date: 2022-09-22  16:49:41
+
+Start-Date: 2022-09-22  16:49:42
+Commandline: apt-get install --reinstall mount
+Reinstall: mount:amd64 (2.34-0.1ubuntu9)
+End-Date: 2022-09-22  16:49:43
+
+Start-Date: 2022-09-22  16:49:44
+Commandline: apt-get install --reinstall ncurses-base
+Reinstall: ncurses-base:amd64 (6.2-0ubuntu2)
+End-Date: 2022-09-22  16:49:44
+
+Start-Date: 2022-09-22  16:49:45
+Commandline: apt-get install --reinstall ncurses-bin
+Reinstall: ncurses-bin:amd64 (6.2-0ubuntu2)
+End-Date: 2022-09-22  16:49:46
+
+Start-Date: 2022-09-22  16:49:47
+Commandline: apt-get install --reinstall passwd
+Reinstall: passwd:amd64 (1:4.8.1-1ubuntu5)
+End-Date: 2022-09-22  16:49:48
+
+Start-Date: 2022-09-22  16:49:49
+Commandline: apt-get install --reinstall perl-base
+Reinstall: perl-base:amd64 (5.30.0-9build1)
+End-Date: 2022-09-22  16:49:50
+
+Start-Date: 2022-09-22  16:49:51
+Commandline: apt-get install --reinstall procps
+Reinstall: procps:amd64 (2:3.3.16-1ubuntu2)
+End-Date: 2022-09-22  16:49:51
+
+Start-Date: 2022-09-22  16:49:52
+Commandline: apt-get install --reinstall sed
+Reinstall: sed:amd64 (4.7-1)
+End-Date: 2022-09-22  16:49:53
+
+Start-Date: 2022-09-22  16:49:54
+Commandline: apt-get install --reinstall sensible-utils
+Reinstall: sensible-utils:amd64 (0.0.12+nmu1)
+End-Date: 2022-09-22  16:49:54
+
+Start-Date: 2022-09-22  16:49:55
+Commandline: apt-get install --reinstall sysvinit-utils
+Reinstall: sysvinit-utils:amd64 (2.96-2.1ubuntu1)
+End-Date: 2022-09-22  16:49:56
+
+Start-Date: 2022-09-22  16:49:57
+Commandline: apt-get install --reinstall tar
+Reinstall: tar:amd64 (1.30+dfsg-7)
+End-Date: 2022-09-22  16:49:57
+
+Start-Date: 2022-09-22  16:49:58
+Commandline: apt-get install --reinstall ubuntu-keyring
+Reinstall: ubuntu-keyring:amd64 (2020.02.11.2)
+End-Date: 2022-09-22  16:49:59
+
+Start-Date: 2022-09-22  16:50:00
+Commandline: apt-get install --reinstall util-linux
+Reinstall: util-linux:amd64 (2.34-0.1ubuntu9)
+End-Date: 2022-09-22  16:50:01
+
+Start-Date: 2022-09-22  16:50:02
+Commandline: apt-get install --reinstall zlib1g:amd64
+Reinstall: zlib1g:amd64 (1:1.2.11.dfsg-2ubuntu1)
+End-Date: 2022-09-22  16:50:02
+
+Start-Date: 2022-09-22  16:50:05
+Commandline: apt-get --yes -oDebug::pkgDepCache::AutoInstall=yes install ubuntu-keyring
+Upgrade: ubuntu-keyring:amd64 (2020.02.11.2, 2020.02.11.4)
+End-Date: 2022-09-22  16:50:05
+
+Start-Date: 2022-09-22  16:50:07
+Commandline: apt-get --yes -oDebug::pkgDepCache::AutoInstall=yes --force-yes upgrade
+Upgrade: libpam0g:amd64 (1.3.1-5ubuntu4, 1.3.1-5ubuntu4.3), fdisk:amd64 (2.34-0.1ubuntu9, 2.34-0.1ubuntu9.3), perl-base:amd64 (5.30.0-9build1, 5.30.0-9ubuntu0.2), libseccomp2:amd64 (2.4.3-1ubuntu1, 2.5.1-1ubuntu1~20.04.2), libcom-err2:amd64 (1.45.5-2ubuntu1, 1.45.5-2ubuntu1.1), libfdisk1:amd64 (2.34-0.1ubuntu9, 2.34-0.1ubuntu9.3), libpam-modules:amd64 (1.3.1-5ubuntu4, 1.3.1-5ubuntu4.3), libsystemd0:amd64 (245.4-4ubuntu3, 245.4-4ubuntu3.18), gcc-10-base:amd64 (10-20200411-0ubuntu1, 10.3.0-1ubuntu1~20.04), apt:amd64 (2.0.2, 2.0.9), libmount1:amd64 (2.34-0.1ubuntu9, 2.34-0.1ubuntu9.3), e2fsprogs:amd64 (1.45.5-2ubuntu1, 1.45.5-2ubuntu1.1), zlib1g:amd64 (1:1.2.11.dfsg-2ubuntu1, 1:1.2.11.dfsg-2ubuntu1.3), libc6:amd64 (2.31-0ubuntu9, 2.31-0ubuntu9.9), util-linux:amd64 (2.34-0.1ubuntu9, 2.34-0.1ubuntu9.3), libsepol1:amd64 (3.0-1, 3.0-1ubuntu0.1), passwd:amd64 (1:4.8.1-1ubuntu5, 1:4.8.1-1ubuntu5.20.04.2), procps:amd64 (2:3.3.16-1ubuntu2, 2:3.3.16-1ubuntu2.3), libpam-runtime:amd64 (1.3.1-5ubuntu4, 1.3.1-5ubuntu4.3), libprocps8:amd64 (2:3.3.16-1ubuntu2, 2:3.3.16-1ubuntu2.3), libapt-pkg6.0:amd64 (2.0.2, 2.0.9), libudev1:amd64 (245.4-4ubuntu3, 245.4-4ubuntu3.18), libss2:amd64 (1.45.5-2ubuntu1, 1.45.5-2ubuntu1.1), mount:amd64 (2.34-0.1ubuntu9, 2.34-0.1ubuntu9.3), libext2fs2:amd64 (1.45.5-2ubuntu1, 1.45.5-2ubuntu1.1), libblkid1:amd64 (2.34-0.1ubuntu9, 2.34-0.1ubuntu9.3), dpkg:amd64 (1.19.7ubuntu3, 1.19.7ubuntu3.2), libc-bin:amd64 (2.31-0ubuntu9, 2.31-0ubuntu9.9), libpcre3:amd64 (2:8.39-12build1, 2:8.39-12ubuntu0.1), tar:amd64 (1.30+dfsg-7, 1.30+dfsg-7ubuntu0.20.04.2), libuuid1:amd64 (2.34-0.1ubuntu9, 2.34-0.1ubuntu9.3), libgcrypt20:amd64 (1.8.5-5ubuntu1, 1.8.5-5ubuntu1.1), liblz4-1:amd64 (1.9.2-2, 1.9.2-2ubuntu0.20.04.1), libpcre2-8-0:amd64 (10.34-7, 10.34-7ubuntu0.1), gpgv:amd64 (2.2.19-3ubuntu2, 2.2.19-3ubuntu2.2), libsmartcols1:amd64 (2.34-0.1ubuntu9, 2.34-0.1ubuntu9.3), login:amd64 (1:4.8.1-1ubuntu5, 1:4.8.1-1ubuntu5.20.04.2), libhogweed5:amd64 (3.5.1+really3.5.1-2, 3.5.1+really3.5.1-2ubuntu0.2), libpam-modules-bin:amd64 (1.3.1-5ubuntu4, 1.3.1-5ubuntu4.3), bsdutils:amd64 (1:2.34-0.1ubuntu9, 1:2.34-0.1ubuntu9.3), libgcc-s1:amd64 (10-20200411-0ubuntu1, 10.3.0-1ubuntu1~20.04), libnettle7:amd64 (3.5.1+really3.5.1-2, 3.5.1+really3.5.1-2ubuntu0.2), bash:amd64 (5.0-6ubuntu1, 5.0-6ubuntu1.2), libgnutls30:amd64 (3.6.13-2ubuntu1, 3.6.13-2ubuntu1.7), libp11-kit0:amd64 (0.23.20-1build1, 0.23.20-1ubuntu0.1), libzstd1:amd64 (1.4.4+dfsg-3, 1.4.4+dfsg-3ubuntu0.1), logsave:amd64 (1.45.5-2ubuntu1, 1.45.5-2ubuntu1.1), gzip:amd64 (1.10-0ubuntu4, 1.10-0ubuntu4.1), liblzma5:amd64 (5.2.4-1, 5.2.4-1ubuntu1.1), libstdc++6:amd64 (10-20200411-0ubuntu1, 10.3.0-1ubuntu1~20.04), base-files:amd64 (11ubuntu5, 11ubuntu5.6)
+End-Date: 2022-09-22  16:50:12
+
+Start-Date: 2022-10-20  08:29:11
+Commandline: apt-get -qqqy dist-upgrade
+Upgrade: perl-base:amd64 (5.30.0-9ubuntu0.2, 5.30.0-9ubuntu0.3), zlib1g:amd64 (1:1.2.11.dfsg-2ubuntu1.3, 1:1.2.11.dfsg-2ubuntu1.5), libgmp10:amd64 (2:6.2.0+dfsg-4, 2:6.2.0+dfsg-4ubuntu0.1)
+End-Date: 2022-10-20  08:29:16
+
+Start-Date: 2022-10-20  08:29:20
+Commandline: apt-get -qqqy install --no-install-recommends apt-utils software-properties-common dctrl-tools gpg-agent
+Install: libpolkit-gobject-1-0:amd64 (0.105-26ubuntu1.3, automatic), libdevmapper1.02.1:amd64 (2:1.02.167-1ubuntu1, automatic), iso-codes:amd64 (4.4-1, automatic), libkrb5-3:amd64 (1.17-6ubuntu4.1, automatic), libgssapi-krb5-2:amd64 (1.17-6ubuntu4.1, automatic), libpackagekit-glib2-18:amd64 (1.1.13-2ubuntu1.1, automatic), glib-networking-services:amd64 (2.64.2-1ubuntu0.1, automatic), libdbus-1-3:amd64 (1.12.16-2ubuntu2.2, automatic), python3-software-properties:amd64 (0.99.9.8, automatic), openssl:amd64 (1.1.1f-1ubuntu2.16, automatic), libgirepository-1.0-1:amd64 (1.64.1-1~ubuntu20.04.1, automatic), libproxy1v5:amd64 (0.4.15-10ubuntu1.2, automatic), libargon2-1:amd64 (0~20171227-0.2, automatic), dconf-service:amd64 (0.36.0-1, automatic), libpython3.8-minimal:amd64 (3.8.10-0ubuntu1~20.04.5, automatic), libbrotli1:amd64 (1.0.7-6ubuntu0.1, automatic), glib-networking:amd64 (2.64.2-1ubuntu0.1, automatic), dbus:amd64 (1.12.16-2ubuntu2.2, automatic), libkmod2:amd64 (27-1ubuntu2.1, automatic), libpsl5:amd64 (0.21.0-1ubuntu1, automatic), libsqlite3-0:amd64 (3.31.1-4ubuntu0.4, automatic), libicu66:amd64 (66.1-2ubuntu2.1, automatic), libelf1:amd64 (0.176-1.1build1, automatic), python3-urllib3:amd64 (1.25.8-2ubuntu0.1, automatic), dconf-gsettings-backend:amd64 (0.36.0-1, automatic), python3.8:amd64 (3.8.10-0ubuntu1~20.04.5, automatic), python-apt-common:amd64 (2.0.0ubuntu0.20.04.8, automatic), gpg:amd64 (2.2.19-3ubuntu2.2, automatic), python3:amd64 (3.8.2-0ubuntu2, automatic), libpolkit-agent-1-0:amd64 (0.105-26ubuntu1.3, automatic), libk5crypto3:amd64 (1.17-6ubuntu4.1, automatic), python3-idna:amd64 (2.8-1, automatic), mime-support:amd64 (3.64ubuntu1, automatic), python3-six:amd64 (1.14.0-2, automatic), gsettings-desktop-schemas:amd64 (3.36.0-1ubuntu1, automatic), readline-common:amd64 (8.0-4, automatic), libassuan0:amd64 (2.5.3-7ubuntu2, automatic), libmpdec2:amd64 (2.4.2-3, automatic), python3-requests:amd64 (2.22.0-2ubuntu1, automatic), libexpat1:amd64 (2.2.9-1ubuntu0.4, automatic), glib-networking-common:amd64 (2.64.2-1ubuntu0.1, automatic), libapparmor1:amd64 (2.13.3-7ubuntu5.1, automatic), libsoup2.4-1:amd64 (2.70.0-1, automatic), liblmdb0:amd64 (0.9.24-1, automatic), systemd-timesyncd:amd64 (245.4-4ubuntu3.18, automatic), python3-minimal:amd64 (3.8.2-0ubuntu2, automatic), gir1.2-glib-2.0:amd64 (1.64.1-1~ubuntu20.04.1, automatic), libkrb5support0:amd64 (1.17-6ubuntu4.1, automatic), libcap2:amd64 (1:2.32-1, automatic), libpython3-stdlib:amd64 (3.8.2-0ubuntu2, automatic), python3.8-minimal:amd64 (3.8.10-0ubuntu1~20.04.5, automatic), systemd-sysv:amd64 (245.4-4ubuntu3.18, automatic), libcap2-bin:amd64 (1:2.32-1, automatic), libglib2.0-bin:amd64 (2.64.6-1~ubuntu20.04.4, automatic), libkeyutils1:amd64 (1.6-6ubuntu1.1, automatic), libpam-systemd:amd64 (245.4-4ubuntu3.18, automatic), distro-info-data:amd64 (0.43ubuntu1.10, automatic), python3-pkg-resources:amd64 (45.2.0-1, automatic), packagekit:amd64 (1.1.13-2ubuntu1.1, automatic), systemd:amd64 (245.4-4ubuntu3.18, automatic), apt-utils:amd64 (2.0.9), libreadline8:amd64 (8.0-4, automatic), python3-dbus:amd64 (1.2.16-1build1, automatic), libglib2.0-data:amd64 (2.64.6-1~ubuntu20.04.4, automatic), policykit-1:amd64 (0.105-26ubuntu1.3, automatic), lsb-release:amd64 (11.1.0ubuntu2, automatic), libxml2:amd64 (2.9.10+dfsg-5ubuntu0.20.04.4, automatic), python3-gi:amd64 (3.36.0-1, automatic), gir1.2-packagekitglib-1.0:amd64 (1.1.13-2ubuntu1.1, automatic), libpython3.8-stdlib:amd64 (3.8.10-0ubuntu1~20.04.5, automatic), ca-certificates:amd64 (20211016~20.04.1, automatic), libcryptsetup12:amd64 (2:2.2.2-3ubuntu2.4, automatic), python3-requests-unixsocket:amd64 (0.2.0-2, automatic), libappstream4:amd64 (0.12.10-2, automatic), dbus-user-session:amd64 (1.12.16-2ubuntu2.2, automatic), libssl1.1:amd64 (1.1.1f-1ubuntu2.16, automatic), libyaml-0-2:amd64 (0.2.2-1, automatic), libjson-c4:amd64 (0.13.1+dfsg-7ubuntu0.3, automatic), libstemmer0d:amd64 (0+svn585-2, automatic), pinentry-curses:amd64 (1.1.0-3build1, automatic), libnpth0:amd64 (1.6-1, automatic), libip4tc2:amd64 (1.8.4-3ubuntu2, automatic), dctrl-tools:amd64 (2.24-3), python3-certifi:amd64 (2019.11.28-1, automatic), gpg-agent:amd64 (2.2.19-3ubuntu2.2), python3-chardet:amd64 (3.0.4-4build1, automatic), libgstreamer1.0-0:amd64 (1.16.3-0ubuntu1.1, automatic), libglib2.0-0:amd64 (2.64.6-1~ubuntu20.04.4, automatic), libdconf1:amd64 (0.36.0-1, automatic), gpgconf:amd64 (2.2.19-3ubuntu2.2, automatic), python3-apt:amd64 (2.0.0ubuntu0.20.04.8, automatic), tzdata:amd64 (2022c-0ubuntu0.20.04.0, automatic), software-properties-common:amd64 (0.99.9.8)
+End-Date: 2022-10-20  08:29:44
+
+Start-Date: 2022-10-20  08:30:05
+Commandline: apt-get -qqqy install bind9=1:9.16.34-1+ubuntu20.04.1+isc+1 bind9utils=1:9.16.34-1+ubuntu20.04.1+isc+1
+Install: libfstrm0:amd64 (0.6.1-1+ubuntu20.04.1+isc+1, automatic), libbsd0:amd64 (0.10.0-1, automatic), python3-ply:amd64 (3.11-3ubuntu0.1, automatic), netbase:amd64 (6.1, automatic), bind9utils:amd64 (1:9.16.34-1+ubuntu20.04.1+isc+1), libuv1:amd64 (1.44.1-2+ubuntu20.04.1+isc+1, automatic), libatm1:amd64 (1:2.5.1-4, automatic), libprotobuf-c1:amd64 (1.3.3-1ubuntu0.1, automatic), bind9-utils:amd64 (1:9.16.34-1+ubuntu20.04.1+isc+1, automatic), iproute2:amd64 (5.5.0-1ubuntu1, automatic), bind9:amd64 (1:9.16.34-1+ubuntu20.04.1+isc+1), libxtables12:amd64 (1.8.4-3ubuntu2, automatic), libmaxminddb0:amd64 (1.4.2-0ubuntu1.20.04.1, automatic), dns-root-data:amd64 (2019052802, automatic), bind9-libs:amd64 (1:9.16.34-1+ubuntu20.04.1+isc+1, automatic), libmnl0:amd64 (1.0.4-2, automatic)
+End-Date: 2022-10-20  08:30:09
+
+Start-Date: 2022-10-20  08:30:12
+Commandline: apt-get --purge -y autoremove policykit-1
+Purge: libpolkit-gobject-1-0:amd64 (0.105-26ubuntu1.3), libdevmapper1.02.1:amd64 (2:1.02.167-1ubuntu1), iso-codes:amd64 (4.4-1), libpackagekit-glib2-18:amd64 (1.1.13-2ubuntu1.1), glib-networking-services:amd64 (2.64.2-1ubuntu0.1), libdbus-1-3:amd64 (1.12.16-2ubuntu2.2), python3-software-properties:amd64 (0.99.9.8), libgirepository-1.0-1:amd64 (1.64.1-1~ubuntu20.04.1), libproxy1v5:amd64 (0.4.15-10ubuntu1.2), libargon2-1:amd64 (0~20171227-0.2), dconf-service:amd64 (0.36.0-1), libbrotli1:amd64 (1.0.7-6ubuntu0.1), glib-networking:amd64 (2.64.2-1ubuntu0.1), dbus:amd64 (1.12.16-2ubuntu2.2), libkmod2:amd64 (27-1ubuntu2.1), libpsl5:amd64 (0.21.0-1ubuntu1), python3-urllib3:amd64 (1.25.8-2ubuntu0.1), dconf-gsettings-backend:amd64 (0.36.0-1), python-apt-common:amd64 (2.0.0ubuntu0.20.04.8), gpg:amd64 (2.2.19-3ubuntu2.2), libpolkit-agent-1-0:amd64 (0.105-26ubuntu1.3), python3-idna:amd64 (2.8-1), python3-six:amd64 (1.14.0-2), gsettings-desktop-schemas:amd64 (3.36.0-1ubuntu1), python3-requests:amd64 (2.22.0-2ubuntu1), glib-networking-common:amd64 (2.64.2-1ubuntu0.1), libapparmor1:amd64 (2.13.3-7ubuntu5.1), libsoup2.4-1:amd64 (2.70.0-1), systemd-timesyncd:amd64 (245.4-4ubuntu3.18), gir1.2-glib-2.0:amd64 (1.64.1-1~ubuntu20.04.1), systemd-sysv:amd64 (245.4-4ubuntu3.18), libglib2.0-bin:amd64 (2.64.6-1~ubuntu20.04.4), libpam-systemd:amd64 (245.4-4ubuntu3.18), distro-info-data:amd64 (0.43ubuntu1.10), python3-pkg-resources:amd64 (45.2.0-1), packagekit:amd64 (1.1.13-2ubuntu1.1), systemd:amd64 (245.4-4ubuntu3.18), python3-dbus:amd64 (1.2.16-1build1), libglib2.0-data:amd64 (2.64.6-1~ubuntu20.04.4), policykit-1:amd64 (0.105-26ubuntu1.3), lsb-release:amd64 (11.1.0ubuntu2), python3-gi:amd64 (3.36.0-1), gir1.2-packagekitglib-1.0:amd64 (1.1.13-2ubuntu1.1), libcryptsetup12:amd64 (2:2.2.2-3ubuntu2.4), python3-requests-unixsocket:amd64 (0.2.0-2), libappstream4:amd64 (0.12.10-2), dbus-user-session:amd64 (1.12.16-2ubuntu2.2), libyaml-0-2:amd64 (0.2.2-1), libstemmer0d:amd64 (0+svn585-2), libip4tc2:amd64 (1.8.4-3ubuntu2), python3-certifi:amd64 (2019.11.28-1), python3-chardet:amd64 (3.0.4-4build1), libgstreamer1.0-0:amd64 (1.16.3-0ubuntu1.1), libglib2.0-0:amd64 (2.64.6-1~ubuntu20.04.4), libdconf1:amd64 (0.36.0-1), python3-apt:amd64 (2.0.0ubuntu0.20.04.8), software-properties-common:amd64 (0.99.9.8)
+End-Date: 2022-10-20  08:30:18
+
+Start-Date: 2022-10-26  22:58:40
+Commandline: apt install openssh-client
+Install: libxdmcp6:amd64 (1:1.1.3-0ubuntu1, automatic), libx11-6:amd64 (2:1.6.9-2ubuntu1.2, automatic), libfido2-1:amd64 (1.3.1-1ubuntu2, automatic), libxau6:amd64 (1:1.0.9-0ubuntu1, automatic), libxcb1:amd64 (1.14-2, automatic), libxmuu1:amd64 (2:1.1.3-0ubuntu1, automatic), libx11-data:amd64 (2:1.6.9-2ubuntu1.2, automatic), openssh-client:amd64 (1:8.2p1-4ubuntu0.5), libedit2:amd64 (3.1-20191231-1, automatic), xauth:amd64 (1:1.1-0ubuntu1, automatic), libcbor0.6:amd64 (0.6.0-0ubuntu1, automatic), libxext6:amd64 (2:1.3.4-0ubuntu1, automatic)
+End-Date: 2022-10-26  22:59:06
+
+Start-Date: 2022-10-26  23:40:39
+Commandline: apt install systemctl
+Install: systemctl:amd64 (1.4.3424-2)
+End-Date: 2022-10-26  23:40:41
