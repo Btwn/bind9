@@ -1,0 +1,16 @@
+;
+; BIND reverse data file for local loopback interface
+;
+$TTL    604800
+@       IN      SOA     cadiazpro.com. root.cadiazpro.com. (
+                              1         ; Serial
+                         604800         ; Refresh
+                          86400         ; Retry
+                        2419200         ; Expire
+                         604800 )       ; Negative Cache TTL
+;
+@       IN      NS      cadiazpro.com.
+105.202 IN      PTR     cadiazpro.com.
+105.202 IN      PTR     dns.cadiazpro.com.
+105.202 IN      PTR     pc1.cadiazpro.com.
+105.202 IN      PTR     www.cadiazpro.com.
