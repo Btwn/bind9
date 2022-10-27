@@ -2,14 +2,14 @@
 // organization
 //include "/etc/bind/zones.rfc1918";
 
-zone "cadiazpro.com" {
+zone "cadiaz.mavi.mx" {
         type master;
-        file "/etc/bind/db.cadiazpro.com";
+        file "/etc/bind/db.cadiaz.mavi.mx";
         notify yes;
 };
 
 zone "16.172.in-addr.arpa" {
         type master;
-        file "/etc/bind/db.172.16.rev";
+        file "/etc/bind/db.172.16";
         notify yes;
 };
