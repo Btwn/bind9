@@ -13,3 +13,16 @@ zone "16.172.in-addr.arpa" {
         file "/etc/bind/db.172.16";
         notify yes;
 };
+
+/////////////////////////////////
+zone "app.mavi.mx" {
+        type master;
+        file "/etc/bind/db.app.mavi.mx";
+        notify yes;
+};
+
+zone "hello.mavi.mx" {
+        type master;
+        file "/etc/bind/db.hello.mavi.mx";
+        notify yes;
+};

@@ -14,3 +14,33 @@ $TTL    604800
 105.202	IN	PTR	dns.cadiaz.mavi.mx.
 105.202	IN	PTR	pc1.cadiaz.mavi.mx.
 105.202	IN	PTR	www.cadiaz.mavi.mx.
+
+$TTL    604800
+@       IN      SOA     app.mavi.mx. root.app.mavi.mx. (
+							  1         ; Serial
+						 604800         ; Refresh
+						  86400         ; Retry
+						2419200         ; Expire
+						 604800 )       ; Negative Cache TTL
+;
+@		IN	NS	app.mavi.mx.
+150.214	IN	PTR	app.mavi.mx.
+150.214	IN	PTR	dns.app.mavi.mx.
+150.214	IN	PTR	pc1.app.mavi.mx.
+150.214	IN	PTR	www.app.mavi.mx.
+
+
+
+$TTL    604800
+@       IN      SOA     hello.mavi.mx. root.hello.mavi.mx. (
+							  1         ; Serial
+						 604800         ; Refresh
+						  86400         ; Retry
+						2419200         ; Expire
+						 604800 )       ; Negative Cache TTL
+;
+@		IN	NS	hello.mavi.mx.
+150.214	IN	PTR	hello.mavi.mx.
+150.214	IN	PTR	dns.hello.mavi.mx.
+150.214	IN	PTR	pc1.hello.mavi.mx.
+150.214	IN	PTR	www.hello.mavi.mx.

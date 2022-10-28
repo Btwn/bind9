@@ -1,0 +1,16 @@
+;
+; BIND data file for local loopback interface
+;
+$TTL	604800
+@       IN      SOA     hello.mavi.mx. root.hello.mavi.mx. (
+							  2         ; Serial
+						 604800         ; Refresh
+						  86400         ; Retry
+						2419200         ; Expire
+						 604800 )       ; Negative Cache TTL
+;
+@					IN	NS	hello.mavi.mx.
+hello.mavi.mx.		IN	A	172.16.214.150
+dns.hello.mavi.mx.	IN	A	172.16.214.150
+pc1.hello.mavi.mx.	IN	A	172.16.214.150
+www.hello.mavi.mx.	IN	A	172.16.214.150
