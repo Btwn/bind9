@@ -1,0 +1,61 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: bind-deployment
+  labels:
+    app: bind
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: bind
+  template:
+    metadata:
+      labels:
+        app: bind
+    spec:
+      containers:
+      - name: bind
+        image: cadiaz/bind:v4
+        ports:
+        - containerPort: 53
+          protocol: TCP
+        - containerPort: 53
+          protocol: UDP
+      restartPolicy: Always
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: bind-service
+  labels:
+    app: bind
+spec:
+  selector:
+    app: bind
+  ports:
+  - protocol: TCP
+    port: 53
+    targetPort: 53
+    nodePort: 30053
+    name: bind9-tcp
+  - protocol: UDP
+    port: 53
+    targetPort: 53
+    nodePort: 30053
+    name: bind9
+  type: LoadBalancer
+
+# apiVersion: v1
+# kind: Service
+# metadata:
+#   name: mssql-deployment
+#   namespace: mssql
+# spec:
+#   selector:
+#     app: mssql
+#   ports:
+#     - protocol: TCP
+#       port: 1433
+#       targetPort: 1433
+#   type: LoadBalancer

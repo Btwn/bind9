@@ -19,6 +19,7 @@ docker run --name=bind9 --restart=always --publish 53:53/udp --publish 53:53/tcp
 
 
 docker build -t cadiaz/bind9:v1 .
+docker push cadiaz/bind9:v1
 docker run --rm -it --name bind9-test -p 53:53/tcp -p 53:53/udp cadiaz/bind9:v1
 
 
