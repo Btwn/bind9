@@ -26,3 +26,106 @@ zone "hello.mavi.mx" {
         file "/etc/bind/db.hello.mavi.mx";
         notify yes;
 };
+
+zone "argocd.mavi.mx" {
+        type master;
+        file "/etc/bind/db.argocd.mavi.mx";
+        notify yes;
+};
+
+zone "foo.mavi.mx" {
+        type master;
+        file "/etc/bind/db.foo.mavi.mx";
+        notify yes;
+};
+
+zone "gitlab.mavi.mx" {
+        type master;
+        file "/etc/bind/db.gitlab.mavi.mx";
+        notify yes;
+};
+
+zone "bitbucket.mavi.mx" {
+        type master;
+        file "/etc/bind/db.bitbucket.mavi.mx";
+        notify yes;
+};
+
+
+zone "mssqlcluster" {
+        type master;
+        file "/etc/bind/db.mssqlcluster";
+        notify yes;
+};
+
+zone "jira.mavi.mx" {
+        type master;
+        file "/etc/bind/db.jira.mavi.mx";
+        notify yes;
+};
+
+zone "jenkins.mavi.mx" {
+        type master;
+        file "/etc/bind/db.jenkins.mavi.mx";
+        notify yes;
+};
+
+zone "cadiaz.online" {
+        type master;
+        file "/etc/bind/db.cadiaz.online";
+        notify yes;
+};
+
+zone "saldobf.mavi.mx" {
+        type master;
+        file "/etc/bind/db.saldobf.mavi.mx";
+        notify yes;
+};
+
+zone "api.saldobf.mavi.mx" {
+        type master;
+        file "/etc/bind/db.api.saldobf.mavi.mx";
+        notify yes;
+};
+
+zone "puntoventa.mavi.mx" {
+        type master;
+        file "/etc/bind/db.puntoventa.mavi.mx";
+        notify yes;
+};
+
+zone "sonarqube.mavi.mx" {
+        type master;
+        file "/etc/bind/db.sonarqube.mavi.mx";
+        notify yes;
+};
+
+zone "kas.mavi.mx" {
+        type master;
+        file "/etc/bind/db.kas.mavi.mx";
+        notify yes;
+};
+
+zone "minio.mavi.mx" {
+        type master;
+        file "/etc/bind/db.minio.mavi.mx";
+        notify yes;
+};
+
+zone "registry.mavi.mx" {
+        type master;
+        file "/etc/bind/db.registry.mavi.mx";
+        notify yes;
+};
+
+zone "resumen.mavi.mx" {
+        type master;
+        file "/etc/bind/db.resumen.mavi.mx";
+        notify yes;
+};
+
+zone "api.resumen.mavi.mx" {
+        type master;
+        file "/etc/bind/db.api.resumen.mavi.mx";
+        notify yes;
+};

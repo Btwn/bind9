@@ -10,7 +10,7 @@ $TTL	604800
 						 604800 )       ; Negative Cache TTL
 ;
 @					IN	NS	hello.mavi.mx.
-hello.mavi.mx.		IN	A	172.16.214.150
-dns.hello.mavi.mx.	IN	A	172.16.214.150
-pc1.hello.mavi.mx.	IN	A	172.16.214.150
-www.hello.mavi.mx.	IN	A	172.16.214.150
+hello.mavi.mx.		IN	A	172.16.214.184
+dns.hello.mavi.mx.	IN	A	172.16.214.184
+pc1.hello.mavi.mx.	IN	A	172.16.214.184
+www.hello.mavi.mx.	IN	A	172.16.214.184

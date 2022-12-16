@@ -1,0 +1,16 @@
+;
+; BIND data file for local loopback interface
+;
+$TTL	604800
+@       IN      SOA     sonarqube.mavi.mx. root.sonarqube.mavi.mx. (
+							  2         ; Serial
+						 604800         ; Refresh
+						  86400         ; Retry
+						2419200         ; Expire
+						 604800 )       ; Negative Cache TTL
+;
+@					IN	NS	sonarqube.mavi.mx.
+sonarqube.mavi.mx.		IN	A	172.16.214.184
+dns.sonarqube.mavi.mx.	IN	A	172.16.214.184
+pc1.sonarqube.mavi.mx.	IN	A	172.16.214.184
+www.sonarqube.mavi.mx.	IN	A	172.16.214.184

@@ -1,0 +1,16 @@
+;
+; BIND data file for local loopback interface
+;
+$TTL	604800
+@       IN      SOA     puntoventa.mavi.mx. root.puntoventa.mavi.mx. (
+							  2         ; Serial
+						 604800         ; Refresh
+						  86400         ; Retry
+						2419200         ; Expire
+						 604800 )       ; Negative Cache TTL
+;
+@					IN	NS	puntoventa.mavi.mx.
+puntoventa.mavi.mx.		IN	A	172.16.214.184
+dns.puntoventa.mavi.mx.	IN	A	172.16.214.184
+pc1.puntoventa.mavi.mx.	IN	A	172.16.214.184
+www.puntoventa.mavi.mx.	IN	A	172.16.214.184

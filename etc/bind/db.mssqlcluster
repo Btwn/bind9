@@ -1,0 +1,16 @@
+;
+; BIND data file for local loopback interface
+;
+$TTL	604800
+@       IN      SOA     mssqlcluster. root.mssqlcluster. (
+							  2         ; Serial
+						 604800         ; Refresh
+						  86400         ; Retry
+						2419200         ; Expire
+						 604800 )       ; Negative Cache TTL
+;
+@						IN	NS	mssqlcluster.
+mssqlcluster.		IN	A	172.16.214.185
+dns.mssqlcluster.	IN	A	172.16.214.185
+pc1.mssqlcluster.	IN	A	172.16.214.185
+www.mssqlcluster.	IN	A	172.16.214.185

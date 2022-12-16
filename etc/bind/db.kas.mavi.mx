@@ -2,16 +2,15 @@
 ; BIND data file for local loopback interface
 ;
 $TTL	604800
-@       IN      SOA     app.mavi.mx. root.app.mavi.mx. (
+@       IN      SOA     kas.mavi.mx. root.kas.mavi.mx. (
 							  2         ; Serial
 						 604800         ; Refresh
 						  86400         ; Retry
 						2419200         ; Expire
 						 604800 )       ; Negative Cache TTL
 ;
-@					IN	NS	app.mavi.mx.
-app.mavi.mx.		IN	A	172.16.214.184
-dns.app.mavi.mx.	IN	A	172.16.214.184
-pc1.app.mavi.mx.	IN	A	172.16.214.184
-www.app.mavi.mx.	IN	A	172.16.214.184
-
+@					IN	NS	kas.mavi.mx.
+kas.mavi.mx.		IN	A	172.16.214.184
+dns.kas.mavi.mx.	IN	A	172.16.214.184
+pc1.kas.mavi.mx.	IN	A	172.16.214.184
+www.kas.mavi.mx.	IN	A	172.16.214.184
