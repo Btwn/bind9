@@ -2,9 +2,9 @@
 // organization
 //include "/etc/bind/zones.rfc1918";
 
-zone "cadiaz.mavi.mx" {
+zone "cadiaz.grupomavi.com" {
         type master;
-        file "/etc/bind/db.cadiaz.mavi.mx";
+        file "/etc/bind/db.cadiaz.grupomavi.com";
         notify yes;
 };
 
@@ -15,39 +15,39 @@ zone "16.172.in-addr.arpa" {
 };
 
 /////////////////////////////////
-zone "app.mavi.mx" {
+zone "app.grupomavi.com" {
         type master;
-        file "/etc/bind/db.app.mavi.mx";
+        file "/etc/bind/db.app.grupomavi.com";
         notify yes;
 };
 
-zone "hello.mavi.mx" {
+zone "hello.grupomavi.com" {
         type master;
-        file "/etc/bind/db.hello.mavi.mx";
+        file "/etc/bind/db.hello.grupomavi.com";
         notify yes;
 };
 
-zone "argocd.mavi.mx" {
+zone "argocd.grupomavi.com" {
         type master;
-        file "/etc/bind/db.argocd.mavi.mx";
+        file "/etc/bind/db.argocd.grupomavi.com";
         notify yes;
 };
 
-zone "foo.mavi.mx" {
+zone "foo.grupomavi.com" {
         type master;
-        file "/etc/bind/db.foo.mavi.mx";
+        file "/etc/bind/db.foo.grupomavi.com";
         notify yes;
 };
 
-zone "gitlab.mavi.mx" {
+zone "gitlab.grupomavi.com" {
         type master;
-        file "/etc/bind/db.gitlab.mavi.mx";
+        file "/etc/bind/db.gitlab.grupomavi.com";
         notify yes;
 };
 
-zone "bitbucket.mavi.mx" {
+zone "bitbucket.grupomavi.com" {
         type master;
-        file "/etc/bind/db.bitbucket.mavi.mx";
+        file "/etc/bind/db.bitbucket.grupomavi.com";
         notify yes;
 };
 
@@ -58,15 +58,15 @@ zone "mssqlcluster" {
         notify yes;
 };
 
-zone "jira.mavi.mx" {
+zone "jira.grupomavi.com" {
         type master;
-        file "/etc/bind/db.jira.mavi.mx";
+        file "/etc/bind/db.jira.grupomavi.com";
         notify yes;
 };
 
-zone "jenkins.mavi.mx" {
+zone "jenkins.grupomavi.com" {
         type master;
-        file "/etc/bind/db.jenkins.mavi.mx";
+        file "/etc/bind/db.jenkins.grupomavi.com";
         notify yes;
 };
 
@@ -76,56 +76,62 @@ zone "cadiaz.online" {
         notify yes;
 };
 
-zone "saldobf.mavi.mx" {
+zone "saldobf.grupomavi.com" {
         type master;
-        file "/etc/bind/db.saldobf.mavi.mx";
+        file "/etc/bind/db.saldobf.grupomavi.com";
         notify yes;
 };
 
-zone "api.saldobf.mavi.mx" {
+zone "api.saldobf.grupomavi.com" {
         type master;
-        file "/etc/bind/db.api.saldobf.mavi.mx";
+        file "/etc/bind/db.api.saldobf.grupomavi.com";
         notify yes;
 };
 
-zone "puntoventa.mavi.mx" {
+zone "puntoventa.grupomavi.com" {
         type master;
-        file "/etc/bind/db.puntoventa.mavi.mx";
+        file "/etc/bind/db.puntoventa.grupomavi.com";
         notify yes;
 };
 
-zone "sonarqube.mavi.mx" {
+zone "sonarqube.grupomavi.com" {
         type master;
-        file "/etc/bind/db.sonarqube.mavi.mx";
+        file "/etc/bind/db.sonarqube.grupomavi.com";
         notify yes;
 };
 
-zone "kas.mavi.mx" {
+zone "kas.grupomavi.com" {
         type master;
-        file "/etc/bind/db.kas.mavi.mx";
+        file "/etc/bind/db.kas.grupomavi.com";
         notify yes;
 };
 
-zone "minio.mavi.mx" {
+zone "minio.grupomavi.com" {
         type master;
-        file "/etc/bind/db.minio.mavi.mx";
+        file "/etc/bind/db.minio.grupomavi.com";
         notify yes;
 };
 
-zone "registry.mavi.mx" {
+zone "registry.grupomavi.com" {
         type master;
-        file "/etc/bind/db.registry.mavi.mx";
+        file "/etc/bind/db.registry.grupomavi.com";
         notify yes;
 };
 
-zone "resumen.mavi.mx" {
+zone "resumen.grupomavi.com" {
         type master;
-        file "/etc/bind/db.resumen.mavi.mx";
+        file "/etc/bind/db.resumen.grupomavi.com";
         notify yes;
 };
 
-zone "api.resumen.mavi.mx" {
+zone "api.resumen.grupomavi.com" {
         type master;
-        file "/etc/bind/db.api.resumen.mavi.mx";
+        file "/etc/bind/db.api.resumen.grupomavi.com";
+        notify yes;
+};
+
+zone "resumenfactura.grupomavi.com" {
+        type master;
+        file "/etc/bind/db.api.resumenfactura.grupomavi.com";
         notify yes;
 };

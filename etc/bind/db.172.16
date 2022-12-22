@@ -2,112 +2,112 @@
 ; BIND reverse data file for local loopback interface
 ;
 $TTL    604800
-@       IN      SOA     cadiaz.mavi.mx. root.cadiaz.mavi.mx. (
+@       IN      SOA     cadiaz.grupomavi.com. root.cadiaz.grupomavi.com. (
 							  1         ; Serial
 						 604800         ; Refresh
 						  86400         ; Retry
 						2419200         ; Expire
 						 604800 )       ; Negative Cache TTL
 ;
-@		IN	NS	cadiaz.mavi.mx.
-105.202	IN	PTR	cadiaz.mavi.mx.
-105.202	IN	PTR	dns.cadiaz.mavi.mx.
-105.202	IN	PTR	pc1.cadiaz.mavi.mx.
-105.202	IN	PTR	www.cadiaz.mavi.mx.
+@		IN	NS	cadiaz.grupomavi.com.
+105.202	IN	PTR	cadiaz.grupomavi.com.
+105.202	IN	PTR	dns.cadiaz.grupomavi.com.
+105.202	IN	PTR	pc1.cadiaz.grupomavi.com.
+105.202	IN	PTR	www.cadiaz.grupomavi.com.
 
 $TTL    604800
-@       IN      SOA     app.mavi.mx. root.app.mavi.mx. (
+@       IN      SOA     app.grupomavi.com. root.app.grupomavi.com. (
 							  1         ; Serial
 						 604800         ; Refresh
 						  86400         ; Retry
 						2419200         ; Expire
 						 604800 )       ; Negative Cache TTL
 ;
-@		IN	NS	app.mavi.mx.
-105.202	IN	PTR	app.mavi.mx.
-105.202	IN	PTR	dns.app.mavi.mx.
-105.202	IN	PTR	pc1.app.mavi.mx.
-105.202	IN	PTR	www.app.mavi.mx.
-
-
-
-$TTL    604800
-@       IN      SOA     hello.mavi.mx. root.hello.mavi.mx. (
-							  1         ; Serial
-						 604800         ; Refresh
-						  86400         ; Retry
-						2419200         ; Expire
-						 604800 )       ; Negative Cache TTL
-;
-@		IN	NS	hello.mavi.mx.
-105.202	IN	PTR	hello.mavi.mx.
-105.202	IN	PTR	dns.hello.mavi.mx.
-105.202	IN	PTR	pc1.hello.mavi.mx.
-105.202	IN	PTR	www.hello.mavi.mx.
+@		IN	NS	app.grupomavi.com.
+105.202	IN	PTR	app.grupomavi.com.
+105.202	IN	PTR	dns.app.grupomavi.com.
+105.202	IN	PTR	pc1.app.grupomavi.com.
+105.202	IN	PTR	www.app.grupomavi.com.
 
 
 
 $TTL    604800
-@       IN      SOA     argocd.mavi.mx. root.argocd.mavi.mx. (
+@       IN      SOA     hello.grupomavi.com. root.hello.grupomavi.com. (
 							  1         ; Serial
 						 604800         ; Refresh
 						  86400         ; Retry
 						2419200         ; Expire
 						 604800 )       ; Negative Cache TTL
 ;
-@		IN	NS	argocd.mavi.mx.
-105.202	IN	PTR	argocd.mavi.mx.
-105.202	IN	PTR	dns.argocd.mavi.mx.
-105.202	IN	PTR	pc1.argocd.mavi.mx.
-105.202	IN	PTR	www.argocd.mavi.mx.
+@		IN	NS	hello.grupomavi.com.
+105.202	IN	PTR	hello.grupomavi.com.
+105.202	IN	PTR	dns.hello.grupomavi.com.
+105.202	IN	PTR	pc1.hello.grupomavi.com.
+105.202	IN	PTR	www.hello.grupomavi.com.
 
 
 
 $TTL    604800
-@       IN      SOA     foo.mavi.mx. root.foo.mavi.mx. (
+@       IN      SOA     argocd.grupomavi.com. root.argocd.grupomavi.com. (
 							  1         ; Serial
 						 604800         ; Refresh
 						  86400         ; Retry
 						2419200         ; Expire
 						 604800 )       ; Negative Cache TTL
 ;
-@		IN	NS	foo.mavi.mx.
-105.202	IN	PTR	foo.mavi.mx.
-105.202	IN	PTR	dns.foo.mavi.mx.
-105.202	IN	PTR	pc1.foo.mavi.mx.
-105.202	IN	PTR	www.foo.mavi.mx.
+@		IN	NS	argocd.grupomavi.com.
+105.202	IN	PTR	argocd.grupomavi.com.
+105.202	IN	PTR	dns.argocd.grupomavi.com.
+105.202	IN	PTR	pc1.argocd.grupomavi.com.
+105.202	IN	PTR	www.argocd.grupomavi.com.
 
 
 
 $TTL    604800
-@       IN      SOA     gitlab.mavi.mx. root.gitlab.mavi.mx. (
+@       IN      SOA     foo.grupomavi.com. root.foo.grupomavi.com. (
 							  1         ; Serial
 						 604800         ; Refresh
 						  86400         ; Retry
 						2419200         ; Expire
 						 604800 )       ; Negative Cache TTL
 ;
-@		IN	NS	gitlab.mavi.mx.
-105.202	IN	PTR	gitlab.mavi.mx.
-105.202	IN	PTR	dns.gitlab.mavi.mx.
-105.202	IN	PTR	pc1.gitlab.mavi.mx.
-105.202	IN	PTR	www.gitlab.mavi.mx.
+@		IN	NS	foo.grupomavi.com.
+105.202	IN	PTR	foo.grupomavi.com.
+105.202	IN	PTR	dns.foo.grupomavi.com.
+105.202	IN	PTR	pc1.foo.grupomavi.com.
+105.202	IN	PTR	www.foo.grupomavi.com.
 
 
 
 $TTL    604800
-@       IN      SOA     bitbucket.mavi.mx. root.bitbucket.mavi.mx. (
+@       IN      SOA     gitlab.grupomavi.com. root.gitlab.grupomavi.com. (
 							  1         ; Serial
 						 604800         ; Refresh
 						  86400         ; Retry
 						2419200         ; Expire
 						 604800 )       ; Negative Cache TTL
 ;
-@		IN	NS	bitbucket.mavi.mx.
-105.202	IN	PTR	bitbucket.mavi.mx.
-105.202	IN	PTR	dns.bitbucket.mavi.mx.
-105.202	IN	PTR	pc1.bitbucket.mavi.mx.
-105.202	IN	PTR	www.bitbucket.mavi.mx.
+@		IN	NS	gitlab.grupomavi.com.
+105.202	IN	PTR	gitlab.grupomavi.com.
+105.202	IN	PTR	dns.gitlab.grupomavi.com.
+105.202	IN	PTR	pc1.gitlab.grupomavi.com.
+105.202	IN	PTR	www.gitlab.grupomavi.com.
+
+
+
+$TTL    604800
+@       IN      SOA     bitbucket.grupomavi.com. root.bitbucket.grupomavi.com. (
+							  1         ; Serial
+						 604800         ; Refresh
+						  86400         ; Retry
+						2419200         ; Expire
+						 604800 )       ; Negative Cache TTL
+;
+@		IN	NS	bitbucket.grupomavi.com.
+105.202	IN	PTR	bitbucket.grupomavi.com.
+105.202	IN	PTR	dns.bitbucket.grupomavi.com.
+105.202	IN	PTR	pc1.bitbucket.grupomavi.com.
+105.202	IN	PTR	www.bitbucket.grupomavi.com.
 
 
 
@@ -128,34 +128,34 @@ $TTL    604800
 
 
 $TTL    604800
-@       IN      SOA     jira.mavi.mx. root.jira.mavi.mx. (
+@       IN      SOA     jira.grupomavi.com. root.jira.grupomavi.com. (
 							  1         ; Serial
 						 604800         ; Refresh
 						  86400         ; Retry
 						2419200         ; Expire
 						 604800 )       ; Negative Cache TTL
 ;
-@		IN	NS	jira.mavi.mx.
-105.202	IN	PTR	jira.mavi.mx.
-105.202	IN	PTR	dns.jira.mavi.mx.
-105.202	IN	PTR	pc1.jira.mavi.mx.
-105.202	IN	PTR	www.jira.mavi.mx.
+@		IN	NS	jira.grupomavi.com.
+105.202	IN	PTR	jira.grupomavi.com.
+105.202	IN	PTR	dns.jira.grupomavi.com.
+105.202	IN	PTR	pc1.jira.grupomavi.com.
+105.202	IN	PTR	www.jira.grupomavi.com.
 
 
 
 $TTL    604800
-@       IN      SOA     jenkins.mavi.mx. root.jenkins.mavi.mx. (
+@       IN      SOA     jenkins.grupomavi.com. root.jenkins.grupomavi.com. (
 							  1         ; Serial
 						 604800         ; Refresh
 						  86400         ; Retry
 						2419200         ; Expire
 						 604800 )       ; Negative Cache TTL
 ;
-@		IN	NS	jenkins.mavi.mx.
-105.202	IN	PTR	jenkins.mavi.mx.
-105.202	IN	PTR	dns.jenkins.mavi.mx.
-105.202	IN	PTR	pc1.jenkins.mavi.mx.
-105.202	IN	PTR	www.jenkins.mavi.mx.
+@		IN	NS	jenkins.grupomavi.com.
+105.202	IN	PTR	jenkins.grupomavi.com.
+105.202	IN	PTR	dns.jenkins.grupomavi.com.
+105.202	IN	PTR	pc1.jenkins.grupomavi.com.
+105.202	IN	PTR	www.jenkins.grupomavi.com.
 
 
 
@@ -176,143 +176,160 @@ $TTL    604800
 
 
 $TTL    604800
-@       IN      SOA     saldobf.mavi.mx. root.saldobf.mavi.mx. (
+@       IN      SOA     saldobf.grupomavi.com. root.saldobf.grupomavi.com. (
 							  1         ; Serial
 						 604800         ; Refresh
 						  86400         ; Retry
 						2419200         ; Expire
 						 604800 )       ; Negative Cache TTL
 ;
-@		IN	NS	saldobf.mavi.mx.
-105.202	IN	PTR	saldobf.mavi.mx.
-105.202	IN	PTR	dns.saldobf.mavi.mx.
-105.202	IN	PTR	pc1.saldobf.mavi.mx.
-105.202	IN	PTR	www.saldobf.mavi.mx.
+@		IN	NS	saldobf.grupomavi.com.
+105.202	IN	PTR	saldobf.grupomavi.com.
+105.202	IN	PTR	dns.saldobf.grupomavi.com.
+105.202	IN	PTR	pc1.saldobf.grupomavi.com.
+105.202	IN	PTR	www.saldobf.grupomavi.com.
 
 
 
 $TTL    604800
-@       IN      SOA     api.saldobf.mavi.mx. root.api.saldobf.mavi.mx. (
+@       IN      SOA     api.saldobf.grupomavi.com. root.api.saldobf.grupomavi.com. (
 							  1         ; Serial
 						 604800         ; Refresh
 						  86400         ; Retry
 						2419200         ; Expire
 						 604800 )       ; Negative Cache TTL
 ;
-@		IN	NS	api.saldobf.mavi.mx.
-105.202	IN	PTR	api.saldobf.mavi.mx.
-105.202	IN	PTR	dns.api.saldobf.mavi.mx.
-105.202	IN	PTR	pc1.api.saldobf.mavi.mx.
-105.202	IN	PTR	www.api.saldobf.mavi.mx.
+@		IN	NS	api.saldobf.grupomavi.com.
+105.202	IN	PTR	api.saldobf.grupomavi.com.
+105.202	IN	PTR	dns.api.saldobf.grupomavi.com.
+105.202	IN	PTR	pc1.api.saldobf.grupomavi.com.
+105.202	IN	PTR	www.api.saldobf.grupomavi.com.
 
 
 
 $TTL    604800
-@       IN      SOA     puntoventa.mavi.mx. root.puntoventa.mavi.mx. (
+@       IN      SOA     puntoventa.grupomavi.com. root.puntoventa.grupomavi.com. (
 							  1         ; Serial
 						 604800         ; Refresh
 						  86400         ; Retry
 						2419200         ; Expire
 						 604800 )       ; Negative Cache TTL
 ;
-@		IN	NS	puntoventa.mavi.mx.
-105.202	IN	PTR	puntoventa.mavi.mx.
-105.202	IN	PTR	dns.puntoventa.mavi.mx.
-105.202	IN	PTR	pc1.puntoventa.mavi.mx.
-105.202	IN	PTR	www.puntoventa.mavi.mx.
+@		IN	NS	puntoventa.grupomavi.com.
+105.202	IN	PTR	puntoventa.grupomavi.com.
+105.202	IN	PTR	dns.puntoventa.grupomavi.com.
+105.202	IN	PTR	pc1.puntoventa.grupomavi.com.
+105.202	IN	PTR	www.puntoventa.grupomavi.com.
 
 
 
 $TTL    604800
-@       IN      SOA     sonarqube.mavi.mx. root.sonarqube.mavi.mx. (
+@       IN      SOA     sonarqube.grupomavi.com. root.sonarqube.grupomavi.com. (
 							  1         ; Serial
 						 604800         ; Refresh
 						  86400         ; Retry
 						2419200         ; Expire
 						 604800 )       ; Negative Cache TTL
 ;
-@		IN	NS	sonarqube.mavi.mx.
-105.202	IN	PTR	sonarqube.mavi.mx.
-105.202	IN	PTR	dns.sonarqube.mavi.mx.
-105.202	IN	PTR	pc1.sonarqube.mavi.mx.
-105.202	IN	PTR	www.sonarqube.mavi.mx.
+@		IN	NS	sonarqube.grupomavi.com.
+105.202	IN	PTR	sonarqube.grupomavi.com.
+105.202	IN	PTR	dns.sonarqube.grupomavi.com.
+105.202	IN	PTR	pc1.sonarqube.grupomavi.com.
+105.202	IN	PTR	www.sonarqube.grupomavi.com.
 
 
 
 $TTL    604800
-@       IN      SOA     kas.mavi.mx. root.kas.mavi.mx. (
+@       IN      SOA     kas.grupomavi.com. root.kas.grupomavi.com. (
 							  1         ; Serial
 						 604800         ; Refresh
 						  86400         ; Retry
 						2419200         ; Expire
 						 604800 )       ; Negative Cache TTL
 ;
-@		IN	NS	kas.mavi.mx.
-105.202	IN	PTR	kas.mavi.mx.
-105.202	IN	PTR	dns.kas.mavi.mx.
-105.202	IN	PTR	pc1.kas.mavi.mx.
-105.202	IN	PTR	www.kas.mavi.mx.
+@		IN	NS	kas.grupomavi.com.
+105.202	IN	PTR	kas.grupomavi.com.
+105.202	IN	PTR	dns.kas.grupomavi.com.
+105.202	IN	PTR	pc1.kas.grupomavi.com.
+105.202	IN	PTR	www.kas.grupomavi.com.
 
 
 
 $TTL    604800
-@       IN      SOA     minio.mavi.mx. root.minio.mavi.mx. (
+@       IN      SOA     minio.grupomavi.com. root.minio.grupomavi.com. (
 							  1         ; Serial
 						 604800         ; Refresh
 						  86400         ; Retry
 						2419200         ; Expire
 						 604800 )       ; Negative Cache TTL
 ;
-@		IN	NS	minio.mavi.mx.
-105.202	IN	PTR	minio.mavi.mx.
-105.202	IN	PTR	dns.minio.mavi.mx.
-105.202	IN	PTR	pc1.minio.mavi.mx.
-105.202	IN	PTR	www.minio.mavi.mx.
+@		IN	NS	minio.grupomavi.com.
+105.202	IN	PTR	minio.grupomavi.com.
+105.202	IN	PTR	dns.minio.grupomavi.com.
+105.202	IN	PTR	pc1.minio.grupomavi.com.
+105.202	IN	PTR	www.minio.grupomavi.com.
 
 
 
 $TTL    604800
-@       IN      SOA     registry.mavi.mx. root.registry.mavi.mx. (
+@       IN      SOA     registry.grupomavi.com. root.registry.grupomavi.com. (
 							  1         ; Serial
 						 604800         ; Refresh
 						  86400         ; Retry
 						2419200         ; Expire
 						 604800 )       ; Negative Cache TTL
 ;
-@		IN	NS	registry.mavi.mx.
-105.202	IN	PTR	registry.mavi.mx.
-105.202	IN	PTR	dns.registry.mavi.mx.
-105.202	IN	PTR	pc1.registry.mavi.mx.
-105.202	IN	PTR	www.registry.mavi.mx.
+@		IN	NS	registry.grupomavi.com.
+105.202	IN	PTR	registry.grupomavi.com.
+105.202	IN	PTR	dns.registry.grupomavi.com.
+105.202	IN	PTR	pc1.registry.grupomavi.com.
+105.202	IN	PTR	www.registry.grupomavi.com.
 
 
 
 $TTL    604800
-@       IN      SOA     resumen.mavi.mx. root.resumen.mavi.mx. (
+@       IN      SOA     resumen.grupomavi.com. root.resumen.grupomavi.com. (
 							  1         ; Serial
 						 604800         ; Refresh
 						  86400         ; Retry
 						2419200         ; Expire
 						 604800 )       ; Negative Cache TTL
 ;
-@		IN	NS	resumen.mavi.mx.
-105.202	IN	PTR	resumen.mavi.mx.
-105.202	IN	PTR	dns.resumen.mavi.mx.
-105.202	IN	PTR	pc1.resumen.mavi.mx.
-105.202	IN	PTR	www.resumen.mavi.mx.
+@		IN	NS	resumen.grupomavi.com.
+105.202	IN	PTR	resumen.grupomavi.com.
+105.202	IN	PTR	dns.resumen.grupomavi.com.
+105.202	IN	PTR	pc1.resumen.grupomavi.com.
+105.202	IN	PTR	www.resumen.grupomavi.com.
 
 
 
 $TTL    604800
-@       IN      SOA     api.resumen.mavi.mx. root.api.resumen.mavi.mx. (
+@       IN      SOA     api.resumen.grupomavi.com. root.api.resumen.grupomavi.com. (
 							  1         ; Serial
 						 604800         ; Refresh
 						  86400         ; Retry
 						2419200         ; Expire
 						 604800 )       ; Negative Cache TTL
 ;
-@		IN	NS	api.resumen.mavi.mx.
-105.202	IN	PTR	api.resumen.mavi.mx.
-105.202	IN	PTR	dns.api.resumen.mavi.mx.
-105.202	IN	PTR	pc1.api.resumen.mavi.mx.
-105.202	IN	PTR	www.api.resumen.mavi.mx.
+@		IN	NS	api.resumen.grupomavi.com.
+105.202	IN	PTR	api.resumen.grupomavi.com.
+105.202	IN	PTR	dns.api.resumen.grupomavi.com.
+105.202	IN	PTR	pc1.api.resumen.grupomavi.com.
+105.202	IN	PTR	www.api.resumen.grupomavi.com.
+
+
+
+
+$TTL    604800
+@       IN      SOA     resumenfactura.grupomavi.com. root.resumenfactura.grupomavi.com. (
+							  1         ; Serial
+						 604800         ; Refresh
+						  86400         ; Retry
+						2419200         ; Expire
+						 604800 )       ; Negative Cache TTL
+;
+@		IN	NS	resumenfactura.grupomavi.com.
+105.202	IN	PTR	resumenfactura.grupomavi.com.
+105.202	IN	PTR	dns.resumenfactura.grupomavi.com.
+105.202	IN	PTR	pc1.resumenfactura.grupomavi.com.
+105.202	IN	PTR	www.resumenfactura.grupomavi.com.
