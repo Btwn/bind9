@@ -10,7 +10,7 @@ $TTL	604800
 						 604800 )       ; Negative Cache TTL
 ;
 @					IN	NS	resumen.mavi.mx.
-resumen.mavi.mx.		IN	A	172.16.214.184
-dns.resumen.mavi.mx.	IN	A	172.16.214.184
-pc1.resumen.mavi.mx.	IN	A	172.16.214.184
-www.resumen.mavi.mx.	IN	A	172.16.214.184
+resumen.mavi.mx.		IN	A	172.16.202.105
+dns.resumen.mavi.mx.	IN	A	172.16.202.105
+pc1.resumen.mavi.mx.	IN	A	172.16.202.105
+www.resumen.mavi.mx.	IN	A	172.16.202.105

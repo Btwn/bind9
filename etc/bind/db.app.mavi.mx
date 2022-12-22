@@ -10,8 +10,8 @@ $TTL	604800
 						 604800 )       ; Negative Cache TTL
 ;
 @					IN	NS	app.mavi.mx.
-app.mavi.mx.		IN	A	172.16.214.184
-dns.app.mavi.mx.	IN	A	172.16.214.184
-pc1.app.mavi.mx.	IN	A	172.16.214.184
-www.app.mavi.mx.	IN	A	172.16.214.184
+app.mavi.mx.		IN	A	172.16.202.105
+dns.app.mavi.mx.	IN	A	172.16.202.105
+pc1.app.mavi.mx.	IN	A	172.16.202.105
+www.app.mavi.mx.	IN	A	172.16.202.105
 

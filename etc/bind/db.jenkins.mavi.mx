@@ -10,7 +10,7 @@ $TTL	604800
 						 604800 )       ; Negative Cache TTL
 ;
 @						IN	NS	jenkins.mavi.mx.
-jenkins.mavi.mx.		IN	A	172.16.214.184
-dns.jenkins.mavi.mx.	IN	A	172.16.214.184
-pc1.jenkins.mavi.mx.	IN	A	172.16.214.184
-www.jenkins.mavi.mx.	IN	A	172.16.214.184
+jenkins.mavi.mx.		IN	A	172.16.202.105
+dns.jenkins.mavi.mx.	IN	A	172.16.202.105
+pc1.jenkins.mavi.mx.	IN	A	172.16.202.105
+www.jenkins.mavi.mx.	IN	A	172.16.202.105

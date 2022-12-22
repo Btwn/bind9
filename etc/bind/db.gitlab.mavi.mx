@@ -10,7 +10,7 @@ $TTL	604800
 						 604800 )       ; Negative Cache TTL
 ;
 @					IN	NS	gitlab.mavi.mx.
-gitlab.mavi.mx.		IN	A	172.16.214.184
-dns.gitlab.mavi.mx.	IN	A	172.16.214.184
-pc1.gitlab.mavi.mx.	IN	A	172.16.214.184
-www.gitlab.mavi.mx.	IN	A	172.16.214.184
+gitlab.mavi.mx.		IN	A	172.16.202.105
+dns.gitlab.mavi.mx.	IN	A	172.16.202.105
+pc1.gitlab.mavi.mx.	IN	A	172.16.202.105
+www.gitlab.mavi.mx.	IN	A	172.16.202.105

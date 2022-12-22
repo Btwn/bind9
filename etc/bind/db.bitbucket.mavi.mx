@@ -10,7 +10,7 @@ $TTL	604800
 						 604800 )       ; Negative Cache TTL
 ;
 @						IN	NS	bitbucket.mavi.mx.
-bitbucket.mavi.mx.		IN	A	172.16.214.184
-dns.bitbucket.mavi.mx.	IN	A	172.16.214.184
-pc1.bitbucket.mavi.mx.	IN	A	172.16.214.184
-www.bitbucket.mavi.mx.	IN	A	172.16.214.184
+bitbucket.mavi.mx.		IN	A	172.16.202.105
+dns.bitbucket.mavi.mx.	IN	A	172.16.202.105
+pc1.bitbucket.mavi.mx.	IN	A	172.16.202.105
+www.bitbucket.mavi.mx.	IN	A	172.16.202.105

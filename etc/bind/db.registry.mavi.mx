@@ -10,7 +10,7 @@ $TTL	604800
 						 604800 )       ; Negative Cache TTL
 ;
 @					IN	NS	registry.mavi.mx.
-registry.mavi.mx.		IN	A	172.16.214.184
-dns.registry.mavi.mx.	IN	A	172.16.214.184
-pc1.registry.mavi.mx.	IN	A	172.16.214.184
-www.registry.mavi.mx.	IN	A	172.16.214.184
+registry.mavi.mx.		IN	A	172.16.202.105
+dns.registry.mavi.mx.	IN	A	172.16.202.105
+pc1.registry.mavi.mx.	IN	A	172.16.202.105
+www.registry.mavi.mx.	IN	A	172.16.202.105

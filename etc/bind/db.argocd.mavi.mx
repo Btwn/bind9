@@ -10,8 +10,8 @@ $TTL	604800
 						 604800 )       ; Negative Cache TTL
 ;
 @					IN	NS	argocd.mavi.mx.
-argocd.mavi.mx.		IN	A	172.16.214.184
-dns.argocd.mavi.mx.	IN	A	172.16.214.184
-pc1.argocd.mavi.mx.	IN	A	172.16.214.184
-www.argocd.mavi.mx.	IN	A	172.16.214.184
+argocd.mavi.mx.		IN	A	172.16.202.105
+dns.argocd.mavi.mx.	IN	A	172.16.202.105
+pc1.argocd.mavi.mx.	IN	A	172.16.202.105
+www.argocd.mavi.mx.	IN	A	172.16.202.105
 

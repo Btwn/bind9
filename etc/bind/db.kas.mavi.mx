@@ -10,7 +10,7 @@ $TTL	604800
 						 604800 )       ; Negative Cache TTL
 ;
 @					IN	NS	kas.mavi.mx.
-kas.mavi.mx.		IN	A	172.16.214.184
-dns.kas.mavi.mx.	IN	A	172.16.214.184
-pc1.kas.mavi.mx.	IN	A	172.16.214.184
-www.kas.mavi.mx.	IN	A	172.16.214.184
+kas.mavi.mx.		IN	A	172.16.202.105
+dns.kas.mavi.mx.	IN	A	172.16.202.105
+pc1.kas.mavi.mx.	IN	A	172.16.202.105
+www.kas.mavi.mx.	IN	A	172.16.202.105

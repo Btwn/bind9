@@ -24,10 +24,10 @@ $TTL    604800
 						 604800 )       ; Negative Cache TTL
 ;
 @		IN	NS	app.mavi.mx.
-184.214	IN	PTR	app.mavi.mx.
-184.214	IN	PTR	dns.app.mavi.mx.
-184.214	IN	PTR	pc1.app.mavi.mx.
-184.214	IN	PTR	www.app.mavi.mx.
+105.202	IN	PTR	app.mavi.mx.
+105.202	IN	PTR	dns.app.mavi.mx.
+105.202	IN	PTR	pc1.app.mavi.mx.
+105.202	IN	PTR	www.app.mavi.mx.
 
 
 
@@ -40,10 +40,10 @@ $TTL    604800
 						 604800 )       ; Negative Cache TTL
 ;
 @		IN	NS	hello.mavi.mx.
-184.214	IN	PTR	hello.mavi.mx.
-184.214	IN	PTR	dns.hello.mavi.mx.
-184.214	IN	PTR	pc1.hello.mavi.mx.
-184.214	IN	PTR	www.hello.mavi.mx.
+105.202	IN	PTR	hello.mavi.mx.
+105.202	IN	PTR	dns.hello.mavi.mx.
+105.202	IN	PTR	pc1.hello.mavi.mx.
+105.202	IN	PTR	www.hello.mavi.mx.
 
 
 
@@ -56,10 +56,10 @@ $TTL    604800
 						 604800 )       ; Negative Cache TTL
 ;
 @		IN	NS	argocd.mavi.mx.
-184.214	IN	PTR	argocd.mavi.mx.
-184.214	IN	PTR	dns.argocd.mavi.mx.
-184.214	IN	PTR	pc1.argocd.mavi.mx.
-184.214	IN	PTR	www.argocd.mavi.mx.
+105.202	IN	PTR	argocd.mavi.mx.
+105.202	IN	PTR	dns.argocd.mavi.mx.
+105.202	IN	PTR	pc1.argocd.mavi.mx.
+105.202	IN	PTR	www.argocd.mavi.mx.
 
 
 
@@ -72,10 +72,10 @@ $TTL    604800
 						 604800 )       ; Negative Cache TTL
 ;
 @		IN	NS	foo.mavi.mx.
-184.214	IN	PTR	foo.mavi.mx.
-184.214	IN	PTR	dns.foo.mavi.mx.
-184.214	IN	PTR	pc1.foo.mavi.mx.
-184.214	IN	PTR	www.foo.mavi.mx.
+105.202	IN	PTR	foo.mavi.mx.
+105.202	IN	PTR	dns.foo.mavi.mx.
+105.202	IN	PTR	pc1.foo.mavi.mx.
+105.202	IN	PTR	www.foo.mavi.mx.
 
 
 
@@ -88,10 +88,10 @@ $TTL    604800
 						 604800 )       ; Negative Cache TTL
 ;
 @		IN	NS	gitlab.mavi.mx.
-184.214	IN	PTR	gitlab.mavi.mx.
-184.214	IN	PTR	dns.gitlab.mavi.mx.
-184.214	IN	PTR	pc1.gitlab.mavi.mx.
-184.214	IN	PTR	www.gitlab.mavi.mx.
+105.202	IN	PTR	gitlab.mavi.mx.
+105.202	IN	PTR	dns.gitlab.mavi.mx.
+105.202	IN	PTR	pc1.gitlab.mavi.mx.
+105.202	IN	PTR	www.gitlab.mavi.mx.
 
 
 
@@ -104,10 +104,10 @@ $TTL    604800
 						 604800 )       ; Negative Cache TTL
 ;
 @		IN	NS	bitbucket.mavi.mx.
-184.214	IN	PTR	bitbucket.mavi.mx.
-184.214	IN	PTR	dns.bitbucket.mavi.mx.
-184.214	IN	PTR	pc1.bitbucket.mavi.mx.
-184.214	IN	PTR	www.bitbucket.mavi.mx.
+105.202	IN	PTR	bitbucket.mavi.mx.
+105.202	IN	PTR	dns.bitbucket.mavi.mx.
+105.202	IN	PTR	pc1.bitbucket.mavi.mx.
+105.202	IN	PTR	www.bitbucket.mavi.mx.
 
 
 
@@ -136,10 +136,10 @@ $TTL    604800
 						 604800 )       ; Negative Cache TTL
 ;
 @		IN	NS	jira.mavi.mx.
-184.214	IN	PTR	jira.mavi.mx.
-184.214	IN	PTR	dns.jira.mavi.mx.
-184.214	IN	PTR	pc1.jira.mavi.mx.
-184.214	IN	PTR	www.jira.mavi.mx.
+105.202	IN	PTR	jira.mavi.mx.
+105.202	IN	PTR	dns.jira.mavi.mx.
+105.202	IN	PTR	pc1.jira.mavi.mx.
+105.202	IN	PTR	www.jira.mavi.mx.
 
 
 
@@ -152,10 +152,10 @@ $TTL    604800
 						 604800 )       ; Negative Cache TTL
 ;
 @		IN	NS	jenkins.mavi.mx.
-184.214	IN	PTR	jenkins.mavi.mx.
-184.214	IN	PTR	dns.jenkins.mavi.mx.
-184.214	IN	PTR	pc1.jenkins.mavi.mx.
-184.214	IN	PTR	www.jenkins.mavi.mx.
+105.202	IN	PTR	jenkins.mavi.mx.
+105.202	IN	PTR	dns.jenkins.mavi.mx.
+105.202	IN	PTR	pc1.jenkins.mavi.mx.
+105.202	IN	PTR	www.jenkins.mavi.mx.
 
 
 
@@ -168,10 +168,10 @@ $TTL    604800
 						 604800 )       ; Negative Cache TTL
 ;
 @		IN	NS	cadiaz.online.
-184.214	IN	PTR	cadiaz.online.
-184.214	IN	PTR	dns.cadiaz.online.
-184.214	IN	PTR	pc1.cadiaz.online.
-184.214	IN	PTR	www.cadiaz.online.
+105.202	IN	PTR	cadiaz.online.
+105.202	IN	PTR	dns.cadiaz.online.
+105.202	IN	PTR	pc1.cadiaz.online.
+105.202	IN	PTR	www.cadiaz.online.
 
 
 
@@ -184,10 +184,10 @@ $TTL    604800
 						 604800 )       ; Negative Cache TTL
 ;
 @		IN	NS	saldobf.mavi.mx.
-184.214	IN	PTR	saldobf.mavi.mx.
-184.214	IN	PTR	dns.saldobf.mavi.mx.
-184.214	IN	PTR	pc1.saldobf.mavi.mx.
-184.214	IN	PTR	www.saldobf.mavi.mx.
+105.202	IN	PTR	saldobf.mavi.mx.
+105.202	IN	PTR	dns.saldobf.mavi.mx.
+105.202	IN	PTR	pc1.saldobf.mavi.mx.
+105.202	IN	PTR	www.saldobf.mavi.mx.
 
 
 
@@ -200,10 +200,10 @@ $TTL    604800
 						 604800 )       ; Negative Cache TTL
 ;
 @		IN	NS	api.saldobf.mavi.mx.
-184.214	IN	PTR	api.saldobf.mavi.mx.
-184.214	IN	PTR	dns.api.saldobf.mavi.mx.
-184.214	IN	PTR	pc1.api.saldobf.mavi.mx.
-184.214	IN	PTR	www.api.saldobf.mavi.mx.
+105.202	IN	PTR	api.saldobf.mavi.mx.
+105.202	IN	PTR	dns.api.saldobf.mavi.mx.
+105.202	IN	PTR	pc1.api.saldobf.mavi.mx.
+105.202	IN	PTR	www.api.saldobf.mavi.mx.
 
 
 
@@ -216,10 +216,10 @@ $TTL    604800
 						 604800 )       ; Negative Cache TTL
 ;
 @		IN	NS	puntoventa.mavi.mx.
-184.214	IN	PTR	puntoventa.mavi.mx.
-184.214	IN	PTR	dns.puntoventa.mavi.mx.
-184.214	IN	PTR	pc1.puntoventa.mavi.mx.
-184.214	IN	PTR	www.puntoventa.mavi.mx.
+105.202	IN	PTR	puntoventa.mavi.mx.
+105.202	IN	PTR	dns.puntoventa.mavi.mx.
+105.202	IN	PTR	pc1.puntoventa.mavi.mx.
+105.202	IN	PTR	www.puntoventa.mavi.mx.
 
 
 
@@ -232,10 +232,10 @@ $TTL    604800
 						 604800 )       ; Negative Cache TTL
 ;
 @		IN	NS	sonarqube.mavi.mx.
-184.214	IN	PTR	sonarqube.mavi.mx.
-184.214	IN	PTR	dns.sonarqube.mavi.mx.
-184.214	IN	PTR	pc1.sonarqube.mavi.mx.
-184.214	IN	PTR	www.sonarqube.mavi.mx.
+105.202	IN	PTR	sonarqube.mavi.mx.
+105.202	IN	PTR	dns.sonarqube.mavi.mx.
+105.202	IN	PTR	pc1.sonarqube.mavi.mx.
+105.202	IN	PTR	www.sonarqube.mavi.mx.
 
 
 
@@ -248,10 +248,10 @@ $TTL    604800
 						 604800 )       ; Negative Cache TTL
 ;
 @		IN	NS	kas.mavi.mx.
-184.214	IN	PTR	kas.mavi.mx.
-184.214	IN	PTR	dns.kas.mavi.mx.
-184.214	IN	PTR	pc1.kas.mavi.mx.
-184.214	IN	PTR	www.kas.mavi.mx.
+105.202	IN	PTR	kas.mavi.mx.
+105.202	IN	PTR	dns.kas.mavi.mx.
+105.202	IN	PTR	pc1.kas.mavi.mx.
+105.202	IN	PTR	www.kas.mavi.mx.
 
 
 
@@ -264,10 +264,10 @@ $TTL    604800
 						 604800 )       ; Negative Cache TTL
 ;
 @		IN	NS	minio.mavi.mx.
-184.214	IN	PTR	minio.mavi.mx.
-184.214	IN	PTR	dns.minio.mavi.mx.
-184.214	IN	PTR	pc1.minio.mavi.mx.
-184.214	IN	PTR	www.minio.mavi.mx.
+105.202	IN	PTR	minio.mavi.mx.
+105.202	IN	PTR	dns.minio.mavi.mx.
+105.202	IN	PTR	pc1.minio.mavi.mx.
+105.202	IN	PTR	www.minio.mavi.mx.
 
 
 
@@ -280,10 +280,10 @@ $TTL    604800
 						 604800 )       ; Negative Cache TTL
 ;
 @		IN	NS	registry.mavi.mx.
-184.214	IN	PTR	registry.mavi.mx.
-184.214	IN	PTR	dns.registry.mavi.mx.
-184.214	IN	PTR	pc1.registry.mavi.mx.
-184.214	IN	PTR	www.registry.mavi.mx.
+105.202	IN	PTR	registry.mavi.mx.
+105.202	IN	PTR	dns.registry.mavi.mx.
+105.202	IN	PTR	pc1.registry.mavi.mx.
+105.202	IN	PTR	www.registry.mavi.mx.
 
 
 
@@ -296,10 +296,10 @@ $TTL    604800
 						 604800 )       ; Negative Cache TTL
 ;
 @		IN	NS	resumen.mavi.mx.
-184.214	IN	PTR	resumen.mavi.mx.
-184.214	IN	PTR	dns.resumen.mavi.mx.
-184.214	IN	PTR	pc1.resumen.mavi.mx.
-184.214	IN	PTR	www.resumen.mavi.mx.
+105.202	IN	PTR	resumen.mavi.mx.
+105.202	IN	PTR	dns.resumen.mavi.mx.
+105.202	IN	PTR	pc1.resumen.mavi.mx.
+105.202	IN	PTR	www.resumen.mavi.mx.
 
 
 
@@ -312,7 +312,7 @@ $TTL    604800
 						 604800 )       ; Negative Cache TTL
 ;
 @		IN	NS	api.resumen.mavi.mx.
-184.214	IN	PTR	api.resumen.mavi.mx.
-184.214	IN	PTR	dns.api.resumen.mavi.mx.
-184.214	IN	PTR	pc1.api.resumen.mavi.mx.
-184.214	IN	PTR	www.api.resumen.mavi.mx.
+105.202	IN	PTR	api.resumen.mavi.mx.
+105.202	IN	PTR	dns.api.resumen.mavi.mx.
+105.202	IN	PTR	pc1.api.resumen.mavi.mx.
+105.202	IN	PTR	www.api.resumen.mavi.mx.

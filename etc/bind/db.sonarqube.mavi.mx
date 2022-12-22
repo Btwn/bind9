@@ -10,7 +10,7 @@ $TTL	604800
 						 604800 )       ; Negative Cache TTL
 ;
 @					IN	NS	sonarqube.mavi.mx.
-sonarqube.mavi.mx.		IN	A	172.16.214.184
-dns.sonarqube.mavi.mx.	IN	A	172.16.214.184
-pc1.sonarqube.mavi.mx.	IN	A	172.16.214.184
-www.sonarqube.mavi.mx.	IN	A	172.16.214.184
+sonarqube.mavi.mx.		IN	A	172.16.202.105
+dns.sonarqube.mavi.mx.	IN	A	172.16.202.105
+pc1.sonarqube.mavi.mx.	IN	A	172.16.202.105
+www.sonarqube.mavi.mx.	IN	A	172.16.202.105

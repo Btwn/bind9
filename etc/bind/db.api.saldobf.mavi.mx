@@ -10,7 +10,7 @@ $TTL	604800
 						 604800 )       ; Negative Cache TTL
 ;
 @					IN	NS	api.saldobf.mavi.mx.
-api.saldobf.mavi.mx.		IN	A	172.16.214.184
-dns.api.saldobf.mavi.mx.	IN	A	172.16.214.184
-pc1.api.saldobf.mavi.mx.	IN	A	172.16.214.184
-www.api.saldobf.mavi.mx.	IN	A	172.16.214.184
+api.saldobf.mavi.mx.		IN	A	172.16.202.105
+dns.api.saldobf.mavi.mx.	IN	A	172.16.202.105
+pc1.api.saldobf.mavi.mx.	IN	A	172.16.202.105
+www.api.saldobf.mavi.mx.	IN	A	172.16.202.105
